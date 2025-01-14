@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fumos.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="0" y="0" width="1187" height="1052" frameX="0" frameY="-29" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0001" x="0" y="0" width="1187" height="1052" frameX="0" frameY="-29" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0002" x="1187" y="0" width="1162" height="1061" frameX="-13" frameY="-19" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0003" x="1187" y="0" width="1162" height="1061" frameX="-13" frameY="-19" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0004" x="2349" y="0" width="1146" height="1074" frameX="-21" frameY="-7" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0005" x="2349" y="0" width="1146" height="1074" frameX="-21" frameY="-7" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0006" x="0" y="1074" width="1130" height="1077" frameX="-29" frameY="-3" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0007" x="0" y="1074" width="1130" height="1077" frameX="-29" frameY="-3" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0008" x="1130" y="1074" width="1122" height="1080" frameX="-33" frameY="0" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0009" x="1130" y="1074" width="1122" height="1080" frameX="-33" frameY="0" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0010" x="1130" y="1074" width="1122" height="1080" frameX="-33" frameY="0" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0011" x="1130" y="1074" width="1122" height="1080" frameX="-33" frameY="0" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0012" x="1130" y="1074" width="1122" height="1080" frameX="-33" frameY="0" frameWidth="1187" frameHeight="1081"/>
+	<SubTexture name="dance0013" x="1130" y="1074" width="1122" height="1080" frameX="-33" frameY="0" frameWidth="1187" frameHeight="1081"/>
+</TextureAtlas>

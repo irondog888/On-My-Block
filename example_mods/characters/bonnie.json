@@ -1,7 +1,7 @@
 {
 	"animations": [
 		{
-			"offsets": [-293, -266],
+			"offsets": [0, 0],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
@@ -9,7 +9,15 @@
 			"name": "idle"
 		},
 		{
-			"offsets": [-280, -234],
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [0, 0],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
@@ -17,7 +25,7 @@
 			"name": "down"
 		},
 		{
-			"offsets": [-309, -267],
+			"offsets": [0, 0],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
@@ -25,31 +33,23 @@
 			"name": "up"
 		},
 		{
-			"offsets": [-287, -282],
+			"offsets": [0, 0],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
 			"name": "right"
-		},
-		{
-			"offsets": [-319, -301],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/Freddy",
-	"position": [-230, 70],
+	"image": "characters/PeakBonnie",
+	"position": [-420, 240],
 	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [161, 161, 161],
-	"camera_position": [290, 310],
-	"sing_duration": 5.99999999999999,
-	"scale": 1.1,
+	"camera_position": [350, 290],
+	"sing_duration": 4,
+	"scale": 0.5,
 	"_editor_isPlayer": false
 }

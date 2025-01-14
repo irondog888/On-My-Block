@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="goon.png">
+<TextureAtlas imagePath="Freddy.png">
 	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="down0000" x="100" y="100" width="296" height="486" frameX="-15" frameY="0" frameWidth="325" frameHeight="486"/>

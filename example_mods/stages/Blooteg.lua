@@ -1,16 +1,29 @@
 function onCreate()
 	makeLuaSprite('bg','poops/blooteg/back',-550,-300)
 	makeLuaSprite('stage','poops/blooteg/mesa',-550,-300)
-	makeLuaSprite('gorl','poops/blooteg/azucar',-220,240)
-	makeLuaSprite('nut','poops/blooteg/nut',200,560)
+	makeLuaSprite('gorl','poops/blooteg/azucar',-250,0)
+	makeLuaSprite('nut','poops/blooteg/nut',550,400)
+	makeAnimatedLuaSprite('silly','poops/blooteg/Fumos',850,100)
+	addAnimationByPrefix('silly','bop','dance',24,false)
 
 	scaleObject('bg',1.2,1.2)
 	scaleObject('stage',1.2,1.2)
-	scaleObject('gorl',0.55,0.55)
-	scaleObject('nut',0.22,0.22)
+	scaleObject('gorl',0.8,0.8)
+	scaleObject('nut',0.35,0.35)
+	scaleObject('silly',0.7,0.7)
+
+	setScrollFactor('gfGroup',1,1)
+	setScrollFactor('bg',0.9,0.9)
 
 	addLuaSprite('bg',false)
 	addLuaSprite('stage',false)
 	addLuaSprite('gorl',false)
 	addLuaSprite('nut',false)
+	addLuaSprite('silly',false)
+end
+
+function onBeatHit()
+	if (curBeat % 2 == 0) then
+		playAnim('silly','bop')
+	end
 end
