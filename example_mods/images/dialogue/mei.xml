@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mei.png">
+	<!-- Created by hand lool. I am god -->
+	<SubTexture name="normal0000" x="0" y="0" width="860" height="1074"/>
+	<SubTexture name="happy0000" x="860" y="0" width="860" height="1074"/>
+	<SubTexture name="sus0000" x="1720" y="0" width="860" height="1074"/>
+	<SubTexture name="gasp0000" x="2580" y="0" width="860" height="1074"/>
+	<SubTexture name="mad0000" x="3440" y="0" width="860" height="1074"/>
+
+</TextureAtlas>

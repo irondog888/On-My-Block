@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fools.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Upper Crowd Bob0000" x="59" y="59" width="2026" height="1085" frameX="0" frameY="-58" frameWidth="2026" frameHeight="1146"/>
+	<SubTexture name="Upper Crowd Bob0001" x="2142" y="59" width="2017" height="1107" frameX="-5" frameY="-37" frameWidth="2026" frameHeight="1146"/>
+	<SubTexture name="Upper Crowd Bob0002" x="4216" y="59" width="2015" height="1135" frameX="-6" frameY="-10" frameWidth="2026" frameHeight="1146"/>
+	<SubTexture name="Upper Crowd Bob0003" x="59" y="1251" width="2011" height="1146" frameX="-8" frameY="0" frameWidth="2026" frameHeight="1146"/>
+</TextureAtlas>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pan-pan-girando.png">
+	<!-- Created by hand lool. I am god -->
+	<SubTexture name="pan00" x="0" y="0" width="318" height="232"/>
+	<SubTexture name="pan01" x="318" y="0" width="318" height="232"/>
+	<SubTexture name="pan02" x="636" y="0" width="318" height="232"/>
+	<SubTexture name="pan03" x="954" y="0" width="318" height="232"/>
+	<SubTexture name="pan04" x="1272" y="0" width="318" height="232"/>
+	<SubTexture name="pan05" x="0" y="232" width="318" height="232"/>
+	<SubTexture name="pan06" x="318" y="232" width="318" height="232"/>
+	<SubTexture name="pan07" x="636" y="232" width="318" height="232"/>
+	<SubTexture name="pan08" x="954" y="232" width="318" height="232"/>
+	<SubTexture name="pan09" x="1272" y="232" width="318" height="232"/>
+	<SubTexture name="pan10" x="0" y="464" width="318" height="232"/>
+	<SubTexture name="pan11" x="318" y="464" width="318" height="232"/>
+	<SubTexture name="pan12" x="636" y="464" width="318" height="232"/>
+	<SubTexture name="pan13" x="954" y="464" width="318" height="232"/>
+	<SubTexture name="pan14" x="1272" y="464" width="318" height="232"/>
+	<SubTexture name="pan15" x="0" y="696" width="318" height="232"/>
+	<SubTexture name="pan16" x="318" y="696" width="318" height="232"/>
+	<SubTexture name="pan17" x="636" y="696" width="318" height="232"/>
+	<SubTexture name="pan18" x="954" y="696" width="318" height="232"/>
+	<SubTexture name="pan19" x="1272" y="696" width="318" height="232"/>
+	<SubTexture name="pan20" x="0" y="928" width="318" height="232"/>
+	<SubTexture name="pan21" x="318" y="928" width="318" height="232"/>
+	<SubTexture name="pan22" x="636" y="928" width="318" height="232"/>
+	<SubTexture name="pan23" x="954" y="928" width="318" height="232"/>
+	<SubTexture name="pan24" x="1272" y="928" width="318" height="232"/>
+	<SubTexture name="pan25" x="0" y="1160" width="318" height="232"/>
+	<SubTexture name="pan26" x="318" y="1160" width="318" height="232"/>
+	<SubTexture name="pan27" x="636" y="1160" width="318" height="232"/>
+	<SubTexture name="pan28" x="954" y="1160" width="318" height="232"/>
+	<SubTexture name="pan29" x="1272" y="1160" width="318" height="232"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="nancypixel.png" width="43" height="46">
+  <SubTexture name="idle0001" x="0" y="0"  width="33" height="34" frameX="-10" frameY="-12" frameWidth="33" frameHeight="34"/>
+
+  <SubTexture name="confirm0001" x="0" y="0"  width="33" height="34" frameX="-10" frameY="-12" frameWidth="33" frameHeight="34"/>
+  <SubTexture name="confirm0002" x="0" y="34"  width="33" height="34" frameX="-10" frameY="-12" frameWidth="33" frameHeight="34"/>
+  <SubTexture name="confirm0003" x="0" y="68"  width="33" height="34" frameX="-10" frameY="-12" frameWidth="33" frameHeight="34"/>
+  <SubTexture name="confirm0004" x="0" y="102"  width="33" height="34" frameX="-10" frameY="-12" frameWidth="33" frameHeight="34"/>
+
+  <SubTexture name="confirm-hold0001" x="0" y="102"  width="33" height="34" frameX="-10" frameY="-12" frameWidth="33" frameHeight="34"/>
+
+</TextureAtlas>

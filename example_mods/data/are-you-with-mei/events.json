@@ -1,0 +1,47 @@
+{
+	"events": [
+		[
+			44025.9740259741,
+			[
+				["Play Animation", "hey", "0"],
+				["Play Animation", "cheer", "2"]
+			]
+		],
+		[
+			47142.8571428572,
+			[
+				["Play Animation", "hey", "0"],
+				["Play Animation", "cheer", "2"]
+			]
+		],
+		[
+			50259.7402597403,
+			[
+				["Play Animation", "hey", "0"],
+				["Play Animation", "cheer", "2"]
+			]
+		],
+		[
+			53376.6233766234,
+			[
+				["Play Animation", "hey", "0"],
+				["Play Animation", "cheer", "2"]
+			]
+		],
+		[
+			93896.1038961039,
+			[
+				["Play Animation", "hey", "0"],
+				["Play Animation", "cheer", "2"]
+			]
+		],
+		[
+			100129.87012987,
+			[
+				["Play Animation", "hey", "0"],
+				["Play Animation", "cheer", "2"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

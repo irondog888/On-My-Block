@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mei.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hey0000" x="0" y="0" width="705" height="1026" frameX="0" frameY="-3" frameWidth="705" frameHeight="1029"/>
+	<SubTexture name="hey0001" x="705" y="0" width="705" height="1026" frameX="0" frameY="-3" frameWidth="705" frameHeight="1029"/>
+	<SubTexture name="hey0002" x="1410" y="0" width="705" height="1029"/>
+	
+	<SubTexture name="idle0000" x="2115" y="0" width="704" height="1025"/>
+	<SubTexture name="idle0001" x="2819" y="0" width="704" height="1025"/>
+	<SubTexture name="idle0002" x="3523" y="0" width="704" height="1025"/>
+	<SubTexture name="idle0003" x="4227" y="0" width="704" height="1025"/>
+	<SubTexture name="idle0004" x="4931" y="0" width="704" height="1025"/>
+	
+	<SubTexture name="down0000" x="5635" y="0" width="704" height="1025"/>
+	<SubTexture name="down0001" x="6339" y="0" width="704" height="1025"/>
+	
+	<SubTexture name="left0000" x="7043" y="0" width="704" height="1025"/>
+	<SubTexture name="left0001" x="0" y="1029" width="704" height="1025"/>
+	
+	<SubTexture name="right0000" x="704" y="1029" width="704" height="1026"/>
+	<SubTexture name="right0001" x="1408" y="1029" width="704" height="1026"/>
+
+	
+	<SubTexture name="up0000" x="2112" y="1029" width="704" height="1050"/>
+	<SubTexture name="up0001" x="2816" y="1029" width="704" height="1050"/>
+</TextureAtlas>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="59" y="59" width="1280" height="1280"/>
+	<SubTexture name="down0001" x="59" y="59" width="1280" height="1280"/>
+	<SubTexture name="down0002" x="1396" y="59" width="1280" height="1280"/>
+	<SubTexture name="down0003" x="2733" y="59" width="1280" height="1280"/>
+
+	<SubTexture name="down miss0000" x="4070" y="59" width="1280" height="1280"/>
+	<SubTexture name="down miss0001" x="5407" y="59" width="1280" height="1280"/>
+
+	<SubTexture name="hey0000" x="6744" y="59" width="1280" height="1280"/>
+	<SubTexture name="hey0001" x="59" y="1396" width="1280" height="1280"/>
+	<SubTexture name="hey0002" x="1396" y="1396" width="1280" height="1280"/>
+
+	<SubTexture name="idle0000" x="2733" y="1396" width="1280" height="1280"/>
+	<SubTexture name="idle0001" x="4070" y="1396" width="1280" height="1280"/>
+	<SubTexture name="idle0002" x="5407" y="1396" width="1280" height="1280"/>
+	<SubTexture name="idle0003" x="6744" y="1396" width="1280" height="1280"/>
+	<SubTexture name="idle0004" x="59" y="2733" width="1280" height="1280"/>
+
+	<SubTexture name="left0000" x="1396" y="2733" width="1280" height="1280"/>
+	<SubTexture name="left0001" x="1396" y="2733" width="1280" height="1280"/>
+	<SubTexture name="left0002" x="2733" y="2733" width="1280" height="1280"/>
+	<SubTexture name="left0003" x="4070" y="2733" width="1280" height="1280"/>
+
+	<SubTexture name="left miss0000" x="5407" y="2733" width="1280" height="1280"/>
+	<SubTexture name="left miss0001" x="6744" y="2733" width="1280" height="1280"/>
+
+	<SubTexture name="right0000" x="59" y="4070" width="1280" height="1280"/>
+	<SubTexture name="right0001" x="59" y="4070" width="1280" height="1280"/>
+	<SubTexture name="right0002" x="1396" y="4070" width="1280" height="1280"/>
+	<SubTexture name="right0003" x="2733" y="4070" width="1280" height="1280"/>
+
+	<SubTexture name="right miss0000" x="4070" y="4070" width="1280" height="1280"/>
+	<SubTexture name="right miss0001" x="5407" y="4070" width="1280" height="1280"/>
+
+	<SubTexture name="up0000" x="6744" y="4070" width="1280" height="1280"/>
+	<SubTexture name="up0001" x="6744" y="4070" width="1280" height="1280"/>
+	<SubTexture name="up0002" x="59" y="5407" width="1280" height="1280"/>
+	<SubTexture name="up0003" x="1396" y="5407" width="1280" height="1280"/>
+
+	<SubTexture name="up miss0000" x="2733" y="5407" width="1280" height="1280"/>
+	<SubTexture name="up miss0001" x="4070" y="5407" width="1280" height="1280"/>
+
+	<SubTexture name="beat down0000" x="59" y="6744" width="1280" height="1280"/>
+	<SubTexture name="beat down0001" x="59" y="6744" width="1280" height="1280"/>
+	<SubTexture name="beat down0002" x="1396" y="6744" width="1280" height="1280"/>
+	<SubTexture name="beat down0003" x="2733" y="6744" width="1280" height="1280"/>
+
+	<SubTexture name="beat left0000" x="4070" y="6744" width="1280" height="1280"/>
+	<SubTexture name="beat left0001" x="4070" y="6744" width="1280" height="1280"/>
+	<SubTexture name="beat left0002" x="5407" y="6744" width="1280" height="1280"/>
+	<SubTexture name="beat left0003" x="6744" y="6744" width="1280" height="1280"/>
+
+	<SubTexture name="beat right0000" x="59" y="8081" width="1280" height="1280"/>
+	<SubTexture name="beat right0001" x="59" y="8081" width="1280" height="1280"/>
+	<SubTexture name="beat right0002" x="1396" y="8081" width="1280" height="1280"/>
+	<SubTexture name="beat right0003" x="2733" y="8081" width="1280" height="1280"/>
+
+	<SubTexture name="beat up0000" x="4070" y="8081" width="1280" height="1280"/>
+	<SubTexture name="beat up0001" x="4070" y="8081" width="1280" height="1280"/>
+	<SubTexture name="beat up0002" x="5407" y="8081" width="1280" height="1280"/>
+	<SubTexture name="beat up0003" x="6744" y="8081" width="1280" height="1280"/>
+</TextureAtlas>
