@@ -57,6 +57,7 @@ class CreditsState extends MusicBeatState
 			["GafoMet",				"gafomet",			"5",														"",									"8F8080"],
 			["???",					"3",				"5",														"",									"8F8080"],
 			["???",					"2",				"5",														"",									"8F8080"],
+			["wazabitooooo",		"wazabito",			"5",														"",									"8F8080"],
 			["Gumpleworp",			"irondog",			"pooped in pants",											"x.com/irondoggo888",				"DBC4A0"],
 			[""],
 			['P-Slice Engine Team'],
