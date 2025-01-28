@@ -1996,7 +1996,22 @@ class PlayState extends MusicBeatState
 		DiscordClient.resetClientID();
 		#end
 
-		MusicBeatState.switchState(new ChartingState());
+		var coomers:FlxSprite; //poopies
+		coomers = new FlxSprite(0, 0);
+		coomers.frames = Paths.getSparrowAtlas('FUCK/coomers');
+		coomers.antialiasing = ClientPrefs.data.antialiasing;
+
+		coomers.animation.addByPrefix('loop', 'speen', 24, true); //poopies
+		coomers.animation.play('loop');
+		coomers.setGraphicSize(FlxG.width, FlxG.height);
+		coomers.cameras = [camHUD];
+		coomers.updateHitbox();
+
+		//camHUD.alpha = 0;
+		FlxG.sound.play(Paths.sound('coomers')); //poopy
+		add(coomers);
+
+		//MusicBeatState.switchState(new ChartingState());
 	}
 
 	function openCharacterEditor()
