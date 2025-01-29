@@ -48,7 +48,8 @@ class TitleState extends MusicBeatState
 	var credGroup:FlxGroup = new FlxGroup();
 	var textGroup:FlxGroup = new FlxGroup();
 	var blackScreen:FlxSprite;
-	var credTextShit:Alphabet;
+	var credTextShit:FlxText; //poopy
+	//var credTextShit:Alphabet;
 	var swSpr:FlxSprite; //poopy
 
 	var titleTextColors:Array<FlxColor> = [0xFF33FFFF, 0xFF3333CC];
@@ -267,7 +268,9 @@ class TitleState extends MusicBeatState
 		blackScreen.updateHitbox();
 		credGroup.add(blackScreen);
 
-		credTextShit = new Alphabet(0, 0, "", true);
+		credTextShit = new FlxText(0, 0, FlxG.width, "", 60); //poopy
+		credTextShit.setFormat(Paths.font("PLANK___.ttf"), 60, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		//var credTextShit:Alphabet = new Alphabet(0, 0, "", true);
 		credTextShit.screenCenter();
 		credTextShit.visible = false;
 
@@ -573,7 +576,9 @@ class TitleState extends MusicBeatState
 			if (ClientPrefs.data.vibrating)
 				lime.ui.Haptic.vibrate(100, 100);
 
-			var money:Alphabet = new Alphabet(0, 0, textArray[i], true);
+			var money = new FlxText(0, 0, FlxG.width, textArray[i], 60); //poopy
+			money.setFormat(Paths.font("PLANK___.ttf"), 60, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+			//var money:Alphabet = new Alphabet(0, 0, textArray[i], true);
 			money.screenCenter(X);
 			money.y += (i * 60) + 200 + offset;
 
@@ -589,7 +594,9 @@ class TitleState extends MusicBeatState
 	{
 		if (textGroup != null && credGroup != null)
 		{
-			var coolText:Alphabet = new Alphabet(0, 0, text, true);
+			var coolText = new FlxText(0, 0, FlxG.width, text, 60); //poopy
+			coolText.setFormat(Paths.font("PLANK___.ttf"), 60, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+			//var coolText:Alphabet = new Alphabet(0, 0, text, true);
 			coolText.screenCenter(X);
 			coolText.y += (textGroup.length * 60) + 200 + offset;
 			credGroup.add(coolText);
@@ -633,13 +640,13 @@ class TitleState extends MusicBeatState
 					#end
 					FlxG.sound.music.fadeIn(4, 0, 0.7);
 				case 2:
-					createCoolText(['Binmead', 'chicharrón prensado']);
+					createCoolText([' Binmead ', ' chicharrón prensado ', ' coreyz ']);
 				case 4:
-					addMoreText('present');
+					addMoreText(' present ');
 				case 5:
 					deleteCoolText();
 				case 6:
-					createCoolText(['Associated', 'with'], -40);
+					createCoolText([' Associated ', ' with '], -40);
 				case 8:
 					swSpr.visible = true; //poopies
 					FlxG.sound.play(Paths.sound('meow'));
@@ -653,11 +660,11 @@ class TitleState extends MusicBeatState
 				case 13:
 					deleteCoolText();
 				case 14:
-					addMoreText('FNF');
+					addMoreText(' FNF ');
 				case 15:
-					addMoreText('On My');
+					addMoreText(' On My ');
 				case 16:
-					addMoreText('Block'); // credTextShit.text += '\nFunkin';
+					addMoreText(' Block '); // credTextShit.text += '\nFunkin';
 
 				case 17:
 					skipIntro();
