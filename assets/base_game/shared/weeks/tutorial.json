@@ -1,20 +1,44 @@
 {
+	"storyName": "On My Block",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "bro be patient",
+	"startUnlocked": false,
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		[
+			"Tutorial",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Coming Soon...",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Tutorial"
 }
