@@ -1,6 +1,6 @@
 {
-	"storyName": "Mei",
-	"difficulties": "",
+	"storyName": "There's pee everywhere",
+	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
@@ -37,5 +37,5 @@
 		"gf"
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "weekMei"
+	"weekName": "cuadra1"
 }
