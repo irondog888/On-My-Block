@@ -166,6 +166,7 @@ class TitleState extends MusicBeatState
 	var swagShader:ColorSwap = null;
 	var pan:FlxSprite; //poopy
 	var bg:FlxSprite; //poopy
+	var mei:FlxSprite; //poopy
 
 	function startIntro()
 	{
@@ -192,6 +193,12 @@ class TitleState extends MusicBeatState
 		bg.screenCenter();
 		bg.updateHitbox();
 
+		mei = new FlxSprite(100, 0); //poopies
+		mei.loadGraphic(Paths.image('start/mei_start'));
+		mei.antialiasing = ClientPrefs.data.antialiasing;
+		mei.setGraphicSize(Std.int(mei.width*0.9));
+		mei.updateHitbox();
+
 		logoBl = new FlxSprite(logoPosition.x, logoPosition.y);
 		logoBl.frames = Paths.getSparrowAtlas('start/logoBumpin'); //poopy
 		logoBl.antialiasing = ClientPrefs.data.antialiasing;
@@ -199,8 +206,7 @@ class TitleState extends MusicBeatState
 		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24, false);
 		logoBl.animation.play('bump');
 		logoBl.updateHitbox();
-		logoBl.setGraphicSize(Std.int(logoBl.width*0.65)); //poopy
-		logoBl.screenCenter(); //poopy
+		logoBl.setGraphicSize(Std.int(logoBl.width*0.6)); //poopy
 
 		gfDance = new FlxSprite(gfPosition.x, gfPosition.y);
 		gfDance.antialiasing = ClientPrefs.data.antialiasing;
@@ -212,6 +218,7 @@ class TitleState extends MusicBeatState
 			logoBl.shader = swagShader.shader;
 			pan.shader = swagShader.shader; //poopy
 			bg.shader = swagShader.shader; //poopy
+			mei.shader = swagShader.shader; //poopy
 		}
 		
 		gfDance.frames = Paths.getSparrowAtlas(characterImage);
@@ -255,8 +262,9 @@ class TitleState extends MusicBeatState
 			gfDance.shader = swagShader.shader;
 			logoBl.shader = swagShader.shader;
 			titleText.shader = swagShader.shader;
-			pan.shader = swagShader.shader;
-			bg.shader = swagShader.shader;
+			pan.shader = swagShader.shader; //poopy
+			bg.shader = swagShader.shader; //poopy
+			mei.shader = swagShader.shader; //poopy
 		}
 
 		var logo:FlxSprite = new FlxSprite().loadGraphic(Paths.image('logo'));
@@ -286,6 +294,7 @@ class TitleState extends MusicBeatState
 		add(bg); //poopy
 		add(logoBl); //FNF Logo
 		add(pan); //poopy
+		add(mei); //poopy
 		add(titleText); //"Press Enter to Begin" text
 		add(credGroup);
 		add(swSpr); //poopy
