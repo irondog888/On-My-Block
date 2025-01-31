@@ -3,5 +3,5 @@
   "name": "On My Block",
   "artists": ["UPDATE THIS LATER"],
   "albumArtAsset": "freeplay/albumRoll/omb_album",
-  "albumTitleAsset": "freeplay/albumRoll/text"
+  "albumTitleAsset": "freeplay/albumRoll/omb_album-text"
 }
