@@ -46,6 +46,7 @@ class StoryMenuState extends MusicBeatState
 	var rightArrow:FlxSprite;
 
 	var video_locked:FlxSprite;
+	var noise:FlxSound;
 	var album:FlxSprite; //poops
 
 	var loadedWeeks:Array<WeekData> = [];
@@ -209,6 +210,11 @@ class StoryMenuState extends MusicBeatState
 		video_locked.updateHitbox();
 		video_locked.screenCenter();
 		video_locked.animation.play("static");
+
+		noise = FlxG.sound.load(Paths.sound("static"));
+		noise.volume = 0;
+		noise.looped = true;
+		noise.play();
 
 		var frameSprite:FlxSprite = new FlxSprite(0, 0).loadGraphic(Paths.image('storymenu/newmenu/story_frame')); //poops
 		frameSprite.setGraphicSize(Std.int(FlxG.width));
@@ -396,6 +402,8 @@ class StoryMenuState extends MusicBeatState
 
 		if (!weekIsLocked(loadedWeeks[curWeek].fileName))
 			video_locked.alpha = FlxMath.lerp(0, video_locked.alpha, Math.exp(-elapsed * 10.2));
+
+		noise.volume = FlxMath.lerp(video_locked.alpha, noise.volume, Math.exp(-elapsed * 10.2));
 	}
 
 	var movedBack:Bool = false;
@@ -511,10 +519,11 @@ class StoryMenuState extends MusicBeatState
 	{
 		curWeek += change;
 
-		video_locked.alpha = 1;
-
 		if (change != 0)
+		{
 			gumple = change;
+			video_locked.alpha = 1;
+		}
 
 		if (curWeek >= loadedWeeks.length)
 			curWeek = 0;
