@@ -45,6 +45,7 @@ class StoryMenuState extends MusicBeatState
 	var leftArrow:FlxSprite;
 	var rightArrow:FlxSprite;
 
+	var video_locked:FlxSprite;
 	var album:FlxSprite; //poops
 
 	var loadedWeeks:Array<WeekData> = [];
@@ -201,6 +202,14 @@ class StoryMenuState extends MusicBeatState
 		add(bgSprite);
 		add(grpWeekCharacters);
 
+		video_locked = new FlxSprite(0,0);
+		video_locked.loadGraphic(Paths.image('storymenu/newmenu/static'),true,960,480);
+		video_locked.animation.add("static", [1, 0, 5, 1, 4, 5, 3, 0, 1, 3, 2, 1, 5, 4, 0, 3, 5, 1, 0, 3, 1, 5, 2, 0, 4, 5, 2, 4, 3, 1, 4, 0, 5, 2, 4, 5, 0, 2, 3, 1, 5, 4, 3, 0, 4, 3, 1, 5, 2, 3], 18, true); //sorta randomized so it doesn't hurt people eyes too much
+		video_locked.setGraphicSize(Std.int(FlxG.width - 100));
+		video_locked.updateHitbox();
+		video_locked.screenCenter();
+		video_locked.animation.play("static");
+
 		var frameSprite:FlxSprite = new FlxSprite(0, 0).loadGraphic(Paths.image('storymenu/newmenu/story_frame')); //poops
 		frameSprite.setGraphicSize(Std.int(FlxG.width));
 		frameSprite.updateHitbox();
@@ -231,6 +240,7 @@ class StoryMenuState extends MusicBeatState
 		album.scale.set(0.8,0.8);
 		album.updateHitbox();
 
+		add(video_locked);
 		add(frameSprite); //all poops
 		add(trackBox);
 		add(blockText);
@@ -383,6 +393,9 @@ class StoryMenuState extends MusicBeatState
 
 		for (num => lock in grpLocks.members)
 			lock.y = grpWeekText.members[lock.ID].y + grpWeekText.members[lock.ID].height/2 - lock.height/2;
+
+		if (!weekIsLocked(loadedWeeks[curWeek].fileName))
+			video_locked.alpha = FlxMath.lerp(0, video_locked.alpha, Math.exp(-elapsed * 10.2));
 	}
 
 	var movedBack:Bool = false;
@@ -497,6 +510,8 @@ class StoryMenuState extends MusicBeatState
 	function changeWeek(change:Int = 0):Void
 	{
 		curWeek += change;
+
+		video_locked.alpha = 1;
 
 		if (change != 0)
 			gumple = change;
