@@ -31,6 +31,8 @@ class StoryMenuState extends MusicBeatState
 
 	private static var curWeek:Int = 0;
 
+	var gumple:Int = -1; //poops
+
 	var txtTracklist:FlxText;
 
 	var grpWeekText:FlxTypedGroup<MenuItem>;
@@ -141,18 +143,17 @@ class StoryMenuState extends MusicBeatState
 				// weekThing.updateHitbox();
 
 				// Needs an offset thingie
-				if (isLocked)
-				{
-					//var lock:FlxSprite = new FlxSprite(weekThing.width + 10 + weekThing.x);
-					var lock:FlxSprite = new FlxSprite().loadGraphic(Paths.image('storymenu/newmenu/lock'));
-					lock.x = weekThing.width/2 + weekThing.x - lock.width/2; //poops
-					/*lock.antialiasing = ClientPrefs.data.antialiasing;
-					lock.frames = ui_tex;
-					lock.animation.addByPrefix('lock', 'lock');
-					lock.animation.play('lock');*/
-					lock.ID = i;
-					grpLocks.add(lock);
-				}
+
+				//var lock:FlxSprite = new FlxSprite(weekThing.width + 10 + weekThing.x);
+				var lock:FlxSprite = new FlxSprite().loadGraphic(Paths.image('storymenu/newmenu/lock'));
+				lock.x = weekThing.width/2 + weekThing.x - lock.width/2; //poops
+				/*lock.antialiasing = ClientPrefs.data.antialiasing;
+				lock.frames = ui_tex;
+				lock.animation.addByPrefix('lock', 'lock');
+				lock.animation.play('lock');*/
+				lock.ID = i;
+				grpLocks.add(lock); //poops. this section used to be if(locked), but now everything has a lock and it just isn't visible if it's unlocked
+				
 				num++;
 			}
 		}
@@ -369,9 +370,16 @@ class StoryMenuState extends MusicBeatState
 		super.update(elapsed);
 		
 		var offY:Float = grpWeekText.members[curWeek].targetY;
-		for (num => item in grpWeekText.members)
+		for (num => item in grpWeekText.members){
 			//item.y = FlxMath.lerp(item.targetY - offY + 480, item.y, Math.exp(-elapsed * 10.2));
-			item.y = FlxMath.lerp(item.targetY - offY + 510, item.y, Math.exp(-elapsed * 10.2));
+			if(num - curWeek == 0)
+				item.y = FlxMath.lerp(item.targetY - offY + 510, item.y, Math.exp(-elapsed * 10.2));
+			else if ((-gumple * (num - curWeek) + loadedWeeks.length) % loadedWeeks.length == 1)
+				item.y = grpWeekText.members[curWeek].y - gumple * (item.height+20);
+			else if ((gumple * (num - curWeek) + loadedWeeks.length) % loadedWeeks.length == 1)
+				item.y = grpWeekText.members[curWeek].targetY - offY + 510 + gumple * (item.height+20); // poops. 
+
+		}
 
 		for (num => lock in grpLocks.members)
 			lock.y = grpWeekText.members[lock.ID].y + grpWeekText.members[lock.ID].height/2 - lock.height/2;
@@ -490,6 +498,9 @@ class StoryMenuState extends MusicBeatState
 	{
 		curWeek += change;
 
+		if (change != 0)
+			gumple = change;
+
 		if (curWeek >= loadedWeeks.length)
 			curWeek = 0;
 		if (curWeek < 0)
@@ -508,26 +519,21 @@ class StoryMenuState extends MusicBeatState
 			/*item.alpha = 0.6;
 			if (num - curWeek == 0 && unlocked)
 				item.alpha = 1;*/
-			if (num - curWeek == 0 || (-change * (num - curWeek) + loadedWeeks.length) % loadedWeeks.length == 1) //poops. cancels tween of previously and currently selected week
+			if (num - curWeek == 0 || (-change * (num - curWeek) + loadedWeeks.length) % loadedWeeks.length == 1) { //poops. cancels tween of previously and currently selected week
 				FlxTween.cancelTweensOf(item);
+				FlxTween.cancelTweensOf(grpLocks.members[item.ID]);
+			}
 
 			if (num - curWeek == 0 && unlocked)
-				FlxTween.tween(item, {alpha: 1}, 0.2, {ease: FlxEase.quadOut});
-			else if (num - curWeek == 0 && !unlocked)
-				FlxTween.tween(item, {alpha: 0.6}, 0.2, {ease: FlxEase.quadOut});
-			else
-				FlxTween.tween(item, {alpha: 0}, 0.2, {ease: FlxEase.quadOut}); //poops
-		}
-
-		for (num => lock in grpLocks.members)
-		{
-			if (num - curWeek == 0 || (-change * (num - curWeek) + loadedWeeks.length) % loadedWeeks.length == 1) //poops
-				FlxTween.cancelTweensOf(lock);
-
-		if (num - curWeek == 0)
-			FlxTween.tween(lock, {alpha: 1}, 0.2, {ease: FlxEase.quadOut});
-		else
-			FlxTween.tween(lock, {alpha: 0}, 0.2, {ease: FlxEase.quadOut});
+				FlxTween.tween(item, {alpha: 1}, 0.1, {ease: FlxEase.quadOut});
+			else if (num - curWeek == 0 && !unlocked) {
+				FlxTween.tween(item, {alpha: 0.6}, 0.1, {ease: FlxEase.quadOut});
+				FlxTween.tween(grpLocks.members[item.ID], {alpha: 1}, 0.1, {ease: FlxEase.quadOut});
+			}
+			else {
+				FlxTween.tween(item, {alpha: 0}, 0.1, {ease: FlxEase.quadOut}); //poops
+				FlxTween.tween(grpLocks.members[item.ID], {alpha: 0}, 0.1, {ease: FlxEase.quadOut});
+			}
 		}
 
 		if (unlocked)
