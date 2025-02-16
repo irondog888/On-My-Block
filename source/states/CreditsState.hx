@@ -42,7 +42,7 @@ class CreditsState extends MusicBeatState
 			["Binmead",				"binmead",			"1",														"x.com/Bimeadonmyblock",			"4E4C92"],
 			["chicarrón prensado",	"chicha",			"5",														"x.com/elalexisequisde",			"A4CB63"],
 			["Spumdwave",			"spumd",			"5",														"",									"72E672"],
-			["El Cucs",				"cucs",				"2",														"",									"898989"],
+			["El Cucs",				"cucs"+ FlxG.random.int(1, 2),	"2",											"",									"898989"],
 			["clownfishtears",		"fishtears",		"4",														"x.com/clownfishtears",				"F1A95A"],
 			["Jereck",				"jereck",			"6",														"",									"BC718A"],
 			["Redcon",				"redcon",			"5",														"",									"94E5F3"],
