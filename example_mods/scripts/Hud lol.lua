@@ -8,7 +8,6 @@ function onCreatePost()
   setPropertyFromClass('Main', 'fpsVar.visible', false)
   setProperty('timeBar.visible','false')
   setProperty('timeBarBG.visible','false')
-  setProperty('timeTxt.visible','false')
 end
 
 function onUpdatePost()
@@ -42,8 +41,13 @@ function opponentNoteHit(id, noteData)
 end
 
 function onBeatHit()
-  scaleObject('iconP1', 1.1, 0.8)
-  scaleObject('iconP2', 1.1, 0.8)
+  if (curBeat % 2 == 0) then
+    scaleObject('iconP1', 1.5, 1)
+    scaleObject('iconP2', 1, 1.5)
+  else
+    scaleObject('iconP1', 1, 1.5)
+    scaleObject('iconP2', 1.5, 1)
+  end
 end
 
 function onDestroy()
