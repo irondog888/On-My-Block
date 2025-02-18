@@ -39,26 +39,49 @@ class CreditsState extends MusicBeatState
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			["On My Block"],
-			["Binmead",				"binmead",			"1",														"x.com/Bimeadonmyblock",			"4E4C92"],
-			["chicarrón prensado",	"chicha",			"5",														"x.com/elalexisequisde",			"A4CB63"],
-			["Spumdwave",			"spumd",			"5",														"",									"72E672"],
-			["El Cucs",				"cucs"+ FlxG.random.int(1, 2),	"2",											"",									"898989"],
-			["clownfishtears",		"fishtears",		"4",														"x.com/clownfishtears",				"F1A95A"],
-			["Jereck",				"jereck",			"6",														"",									"BC718A"],
-			["Redcon",				"redcon",			"5",														"",									"94E5F3"],
-			["eldavidBv",			"david",			"5",														"",									"7A80CB"],
-			["kolas123",			"kolas",			"5",														"",									"FFEE9C"],
-			["Vinzz",				"vinzz",			"5",														"",									"8F8080"],
-			["NilerYT",				"niler",			"5",														"",									"8F8080"],
-			["megu777",				"megu",				"5",														"",									"8F8080"],
-			["???",					"cluck",			"5",														"",									"8F8080"],
-			["???",					"firey",			"5",														"",									"8F8080"],
-			["Dracolol",			"draco",			"5",														"",									"8F8080"],
-			["GafoMet",				"gafomet",			"5",														"",									"8F8080"],
-			["???",					"3",				"5",														"",									"8F8080"],
-			["???",					"2",				"5",														"",									"8F8080"],
-			["wazabitooooo",		"wazabito",			"5",														"",									"8F8080"],
+			["Created by:"],
+			["Spumdwave",			"spumd",			"description",												"",									"72E672"],
+			["Directors:"],
+			["Binmead",				"binmead",			"description",												"x.com/Bimeadonmyblock",			"4E4C92"],
+			["Coreyz",				"coreyz",			"description",												"",									"8F8080"],
+			["Coder:"]
 			["Gumpleworp",			"irondog",			"pooped in pants",											"x.com/irondoggo888",				"DBC4A0"],
+			["Composers:"]
+			["chicarrón prensado",	"chicha",			"description",												"x.com/elalexisequisde",			"A4CB63"],
+			["GafoMet",				"gafomet",			"description",												"",									"8F8080"],
+			["eldavidBv",			"david",			"description",												"",									"7A80CB"],
+			["Redcon",				"redcon",			"description",												"",									"94E5F3"],
+			["kolas123",			"kolas",			"description",												"",									"FFEE9C"],
+			//Zenko
+			["Chromatic Maker:"]
+			["kvinxito",			"k",				"description",												"",									"8F8080"],
+			["Charters:"]
+			//Aradido
+			//DF
+			["Dracolol",			"draco",			"description",												"",									"8F8080"],
+			["NilerYT",				"niler",			"description",												"",									"8F8080"],
+			//Sabas de Sandia
+			//brendaameliatrix
+			["Artists:"]
+			//Skeptical
+			["Luxer",				"luxer",			"description",												"",									"8F8080"],
+			["Ale",					"ale",				"description",												"",									"8F8080"],
+			["El Cucs",				"cucs" + FlxG.random.int(1, 2),	"description",									"",									"898989"],
+			["megu777",				"megu",				"description",												"",									"8F8080"],
+			//Maxi
+			//Jav
+			//S2ROH1 (maghty)
+			["wazabitooooo",		"wazabito",			"description",												"",									"8F8080"],
+			//Xhheadlights
+			["Vinzz",				"vinzz",			"description",												"",									"8F8080"],
+			["Shadow Demoniac",		"demon",			"description",												"",									"8F8080"],
+			["Yess",				"yess",				"description",												"",									"8F8080"],
+			["SGDM",				"sgdm",				"description",												"",									"8F8080"],
+			["Jereck",				"jereck",			"description",												"",									"BC718A"],
+			["clownfishtears",		"fishtears",		"description",												"x.com/clownfishtears",				"F1A95A"],
+			["Spring?",				"spring",			"description",												"",									"8F8080"],
+			["Animator:"]
+			//Sunky the gamer
 			[""],
 			['P-Slice Engine Team'],
 			['Mikolka9144',			'mikolka',			'Did everything for P-slice',								 'https://gamebanana.com/members/3329541',									'2ebcfa'],
