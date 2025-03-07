@@ -44,25 +44,25 @@ class CreditsState extends MusicBeatState
 			["Directors:"],
 			["Binmead",				"binmead",			"description",												"x.com/Bimeadonmyblock",			"4E4C92"],
 			["Coreyz",				"coreyz",			"description",												"",									"8F8080"],
-			["Coder:"]
+			["Coder:"],
 			["Gumpleworp",			"irondog",			"pooped in pants",											"x.com/irondoggo888",				"DBC4A0"],
-			["Composers:"]
+			["Composers:"],
 			["chicarrón prensado",	"chicha",			"description",												"x.com/elalexisequisde",			"A4CB63"],
 			["GafoMet",				"gafomet",			"description",												"",									"8F8080"],
 			["eldavidBv",			"david",			"description",												"",									"7A80CB"],
 			["Redcon",				"redcon",			"description",												"",									"94E5F3"],
 			["kolas123",			"kolas",			"description",												"",									"FFEE9C"],
 			//Zenko
-			["Chromatic Maker:"]
+			["Chromatic Maker:"],
 			["kvinxito",			"k",				"description",												"",									"8F8080"],
-			["Charters:"]
+			["Charters:"],
 			//Aradido
 			//DF
 			["Dracolol",			"draco",			"description",												"",									"8F8080"],
 			["NilerYT",				"niler",			"description",												"",									"8F8080"],
 			//Sabas de Sandia
 			//brendaameliatrix
-			["Artists:"]
+			["Artists:"],
 			//Skeptical
 			["Luxer",				"luxer",			"description",												"",									"8F8080"],
 			["Ale",					"ale",				"description",												"",									"8F8080"],
@@ -80,7 +80,7 @@ class CreditsState extends MusicBeatState
 			["Jereck",				"jereck",			"description",												"",									"BC718A"],
 			["clownfishtears",		"fishtears",		"description",												"x.com/clownfishtears",				"F1A95A"],
 			["Spring?",				"spring",			"description",												"",									"8F8080"],
-			["Animator:"]
+			["Animator:"],
 			//Sunky the gamer
 			[""],
 			['P-Slice Engine Team'],
