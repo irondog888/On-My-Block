@@ -50,10 +50,10 @@ import states.TitleState;
 	public var vsliceSmoothBar:Bool = true;
 	public var noteOffset:Int = 0;
 	public var arrowRGB:Array<Array<FlxColor>> = [
-		[0xFFC24B99, 0xFFFFFFFF, 0xFF3C1F56],
-		[0xFF00FFFF, 0xFFFFFFFF, 0xFF1542B7],
-		[0xFF12FA05, 0xFFFFFFFF, 0xFF0A4447],
-		[0xFFF9393F, 0xFFFFFFFF, 0xFF651038]];
+		[0xFF328EBC, 0xFFFFFFFF, 0xFF133749],
+		[0xFF2FA000, 0xFFFFFFFF, 0xFF001300],
+		[0xFFFFDD33, 0xFFFFFFFF, 0xFF665500],
+		[0xFFC42232, 0xFFFFFFFF, 0xFF4E0E14]]; //poops
 	public var arrowRGBPixel:Array<Array<FlxColor>> = [
 		[0xFFE276FF, 0xFFFFF9FF, 0xFF60008D],
 		[0xFF3DCAFF, 0xFFF4FFFF, 0xFF003060],
