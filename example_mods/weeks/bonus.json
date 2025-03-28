@@ -3,21 +3,17 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "cuadra1",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "cuadra1",
 	"startUnlocked": false,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
-			"",
+			"blooteg",
 			"mei",
 			[
 				146,
@@ -26,7 +22,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "bonus",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bonus"
 }
