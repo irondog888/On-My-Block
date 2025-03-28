@@ -574,16 +574,26 @@ class PlayState extends MusicBeatState
 		uiGroup.add(poopoo);
 
 		vinyl = new FlxSprite().loadGraphic(Paths.image('gameplay/vinyl')); //poops
+		if(songName == 'blooteg'){
+			vinyl.flipY = true;
+			vinyl.y = 0;
+			if(ClientPrefs.data.downScroll)
+				vinyl.y += 30;
+		} else{
+			vinyl.y = FlxG.height - vinyl.height + 3;
+			if(!ClientPrefs.data.downScroll)
+				vinyl.y -= 30;
+		}
+		vinyl.updateHitbox();
 		vinyl.screenCenter(X);
-		vinyl.y = FlxG.height - vinyl.height + 3;
-		if(!ClientPrefs.data.downScroll)
-			vinyl.y -= 30;
 		vinyl.visible = !ClientPrefs.data.hideHud;
 		uiGroup.add(vinyl);
 
 		Conductor.songPosition = -Conductor.crochet * 5 + Conductor.offset;
 		var showTime:Bool = (ClientPrefs.data.timeBarType != 'Disabled');
 		timeTxt = new FlxText(STRUM_X + (FlxG.width / 2) - 248, vinyl.y + vinyl.height * 0.75, 400, "", 32);
+		if(songName == 'blooteg')
+			timeTxt.y -= vinyl.height * 0.62;
 		timeTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		timeTxt.scrollFactor.set();
 		timeTxt.alpha = 0;
