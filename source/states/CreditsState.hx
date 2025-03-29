@@ -45,7 +45,7 @@ class CreditsState extends MusicBeatState
 			["Binmead",				"binmead",			"description",												"x.com/Bimeadonmyblock",			"4E4C92"],
 			["Coreyz",				"coreyz",			"description",												"",									"8F8080"],
 			["Coder:"],
-			["Gumpleworp",			"irondog",			"pooped in pants",											"x.com/irondoggo888",				"DBC4A0"],
+			["Gumpleworp",			"gumple",			"pooped in pants",											"x.com/irondoggo888",				"DBC4A0"],
 			["Composers:"],
 			["chicarrón prensado",	"chicha",			"description",												"x.com/elalexisequisde",			"A4CB63"],
 			["GafoMet",				"gafomet",			"description",												"",									"8F8080"],
