@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [485, -6],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gato_redecha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [130, -5],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gato_ajabo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [174, 419],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gato_arriba",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-8, 113],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gato_izkierda",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": false,
+			"name": "gato_idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gato-dx",
+	"position": [80, 390],
+	"healthicon": "gato",
+	"flip_x": false,
+	"healthbar_colors": [255, 236, 175],
+	"camera_position": [170, -20],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
