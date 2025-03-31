@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gato-dx.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gato_ajabo0000" x="0" y="0" width="316" height="303" frameX="-112" frameY="0" frameWidth="539" frameHeight="304"/>
+	<SubTexture name="gato_ajabo0001" x="316" y="0" width="539" height="101" frameX="0" frameY="-203" frameWidth="539" frameHeight="304"/>
+	<SubTexture name="gato_ajabo0002" x="855" y="0" width="494" height="118" frameX="-23" frameY="-186" frameWidth="539" frameHeight="304"/>
+	<SubTexture name="gato_ajabo0003" x="1349" y="0" width="459" height="166" frameX="-40" frameY="-137" frameWidth="539" frameHeight="304"/>
+	<SubTexture name="gato_ajabo0004" x="1808" y="0" width="397" height="232" frameX="-71" frameY="-71" frameWidth="539" frameHeight="304"/>
+	<SubTexture name="gato_arriba0000" x="2205" y="0" width="377" height="667" frameX="-124" frameY="-77" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0001" x="2205" y="0" width="377" height="667" frameX="-124" frameY="-77" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0002" x="2582" y="0" width="389" height="687" frameX="-118" frameY="-47" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0003" x="2582" y="0" width="389" height="687" frameX="-118" frameY="-47" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0004" x="2971" y="0" width="417" height="685" frameX="-104" frameY="0" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0005" x="2971" y="0" width="417" height="685" frameX="-104" frameY="0" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0006" x="3388" y="0" width="508" height="654" frameX="-58" frameY="-15" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0007" x="3388" y="0" width="508" height="654" frameX="-58" frameY="-46" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0008" x="0" y="687" width="567" height="550" frameX="-29" frameY="-99" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0009" x="0" y="687" width="567" height="550" frameX="-29" frameY="-99" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0010" x="567" y="687" width="600" height="380" frameX="-12" frameY="-221" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0011" x="567" y="687" width="600" height="380" frameX="-12" frameY="-221" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0012" x="1167" y="687" width="624" height="327" frameX="0" frameY="-250" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_arriba0013" x="1167" y="687" width="624" height="327" frameX="0" frameY="-250" frameWidth="624" frameHeight="744"/>
+	<SubTexture name="gato_idle0000" x="1791" y="687" width="315" height="245" frameX="0" frameY="-80" frameWidth="315" frameHeight="325"/>
+	<SubTexture name="gato_idle0001" x="1791" y="687" width="315" height="245" frameX="0" frameY="-80" frameWidth="315" frameHeight="325"/>
+	<SubTexture name="gato_idle0002" x="1791" y="687" width="315" height="245" frameX="0" frameY="-80" frameWidth="315" frameHeight="325"/>
+	<SubTexture name="gato_idle0003" x="2106" y="687" width="315" height="324" frameX="0" frameY="0" frameWidth="315" frameHeight="325"/>
+	<SubTexture name="gato_izkierda0000" x="2421" y="687" width="282" height="345" frameX="-216" frameY="-76" frameWidth="498" frameHeight="421"/>
+	<SubTexture name="gato_izkierda0001" x="2703" y="687" width="461" height="413" frameX="0" frameY="-8" frameWidth="498" frameHeight="421"/>
+	<SubTexture name="gato_izkierda0002" x="3164" y="687" width="424" height="421" frameX="-47" frameY="0" frameWidth="498" frameHeight="421"/>
+	<SubTexture name="gato_izkierda0003" x="3588" y="687" width="386" height="412" frameX="-98" frameY="-9" frameWidth="498" frameHeight="421"/>
+	<SubTexture name="gato_izkierda0004" x="3588" y="687" width="386" height="412" frameX="-98" frameY="-9" frameWidth="498" frameHeight="421"/>
+	<SubTexture name="gato_redecha0000" x="0" y="1237" width="321" height="295" frameX="0" frameY="-5" frameWidth="796" frameHeight="310"/>
+	<SubTexture name="gato_redecha0001" x="321" y="1237" width="792" height="272" frameX="-4" frameY="-26" frameWidth="796" frameHeight="310"/>
+	<SubTexture name="gato_redecha0002" x="1113" y="1237" width="770" height="288" frameX="0" frameY="-12" frameWidth="796" frameHeight="310"/>
+	<SubTexture name="gato_redecha0003" x="1883" y="1237" width="510" height="310" frameX="0" frameY="0" frameWidth="796" frameHeight="310"/>
+	<SubTexture name="gato_redecha0004" x="2393" y="1237" width="489" height="310" frameX="0" frameY="0" frameWidth="796" frameHeight="310"/>
+</TextureAtlas>
