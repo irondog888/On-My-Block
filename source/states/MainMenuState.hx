@@ -17,9 +17,13 @@ class MainMenuState extends MusicBeatState
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
+	var standeez:FlxTypedGroup<FlxSprite>;
+	var poopY:Array<Float> = [];
 	var bg:FlxSprite;
 	var bgTween:FlxTween = null;
 	var gearTween:FlxTween = null;
+	var standeeTweenIn:FlxTween = null;
+	var standeeTweenOut:FlxTween = null;
 
 	var optionShit:Array<String> = [
 		'story',
@@ -67,6 +71,25 @@ class MainMenuState extends MusicBeatState
 		omb.updateHitbox();
 		omb.screenCenter(Y);
 		add(omb);
+
+		standeez = new FlxTypedGroup<FlxSprite>();
+		add(standeez);
+
+		for (i in 0...optionShit.length)
+		{
+			var standee:FlxSprite = new FlxSprite(500, 0).loadGraphic(Paths.image('mainmenu/standee_' + optionShit[i]));
+			standee.antialiasing = ClientPrefs.data.antialiasing;
+			standee.alpha = 0;
+			standee.updateHitbox();
+			standee.screenCenter(Y);
+			poopY.push(standee.y);
+			standee.y += 100;
+			if (i == 2){
+				standee.scale.set(0.5,0.5);
+				standee.x -= 200;
+			}
+			standeez.add(standee); //poops
+		}
 
 		var bgL:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('mainmenu/menuLeft'));
 		bgL.antialiasing = ClientPrefs.data.antialiasing;
@@ -261,6 +284,8 @@ class MainMenuState extends MusicBeatState
 		menuItems.members[curSelected].animation.play('idle');
 		menuItems.members[curSelected].updateHitbox();
 
+		standeeTweenOut = FlxTween.tween(standeez.members[curSelected], {alpha: 0,y:poopY[curSelected]+100}, 0.4, {ease: FlxEase.quadOut});
+
 		curSelected += huh;
 
 		if (curSelected >= menuItems.length)
@@ -271,12 +296,16 @@ class MainMenuState extends MusicBeatState
 		menuItems.members[curSelected].animation.play('selected');
 		menuItems.members[curSelected].centerOffsets();
 
+		FlxTween.cancelTweensOf(standeez.members[curSelected]);
+
 		if (bgTween != null) 
 			bgTween.cancel();
 		if (gearTween != null)
 			gearTween.cancel();
+		if (standeeTweenIn != null)
+			standeeTweenIn.cancel();
 
-		bgTween = FlxTween.tween(bg, {y: 0 - (curSelected * 20)}, 0.4, {ease: FlxEase.quadOut});
+		standeeTweenIn = FlxTween.tween(standeez.members[curSelected], {alpha: 1, y:poopY[curSelected]}, 0.4, {ease: FlxEase.quadOut});
 
 		if (curSelected == 3) {
 			gearTween = FlxTween.tween(menuItems.members[3], {angle: 90}, 0.4, {ease: FlxEase.quadOut});
