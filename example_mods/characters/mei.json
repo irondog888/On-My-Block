@@ -1,52 +1,52 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"loop": false,
-			"fps": 12,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [26, 4],
-			"loop": false,
-			"fps": 12,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"fps": 12,
+			"name": "Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-64, -51],
-			"loop": false,
-			"fps": 12,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 12,
+			"name": "Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-10, 33],
-			"loop": false,
-			"fps": 12,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 12,
+			"name": "Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-29, -36],
-			"loop": false,
-			"fps": 12,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 12,
+			"name": "Right",
+			"indices": []
 		},
 		{
-			"offsets": [-61, 56],
 			"loop": false,
-			"fps": 12,
+			"offsets": [-61, 56],
 			"anim": "hey",
-			"indices": [0, 1, 1, 1, 1, 1, 1],
-			"name": "Hey"
+			"fps": 12,
+			"name": "Hey",
+			"indices": [0, 1, 1, 1, 1, 1, 1]
 		}
 	],
 	"vocals_file": "",
@@ -56,7 +56,7 @@
 	"healthicon": "mei",
 	"flip_x": false,
 	"healthbar_colors": [191, 68, 86],
-	"camera_position": [130, 120],
+	"camera_position": [122, 110],
 	"sing_duration": 4,
 	"scale": 0.8,
 	"_editor_isPlayer": false

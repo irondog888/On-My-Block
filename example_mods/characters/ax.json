@@ -1,54 +1,54 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"loop": false,
-			"fps": 12,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [17, -57],
-			"loop": false,
-			"fps": 12,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 12,
+			"name": "Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-1, 25],
-			"loop": false,
-			"fps": 12,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 12,
+			"name": "Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [25, 4],
-			"indices": [],
-			"fps": 12,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Right"
+			"fps": 12,
+			"name": "Right",
+			"indices": []
 		},
 		{
-			"offsets": [0, -6],
-			"indices": [],
-			"fps": 12,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Left"
+			"offsets": [0, -6],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Left",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/AX",
 	"position": [-50, -110],
-	"healthicon": "mei",
+	"healthicon": "ax",
 	"flip_x": false,
-	"healthbar_colors": [191, 68, 86],
-	"camera_position": [130, 120],
+	"healthbar_colors": [165, 58, 106],
+	"camera_position": [80, 110],
 	"sing_duration": 4,
 	"scale": 0.8,
 	"_editor_isPlayer": false
