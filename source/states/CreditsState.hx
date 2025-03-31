@@ -40,8 +40,8 @@ class CreditsState extends MusicBeatState
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			["Directors:"],
 			["Binmead",				"binmead",			"Todos flojos ni uno eficiente",							"x.com/Bimeadonmyblock",			"4E4C92"], //
-			["chicarrón prensado",	"chicha",			"description",												"x.com/elalexisequisde",			"A4CB63"], //
-			["Coreyz",				"coreyz",			"description",												"x.com/Cartoon25600194",			"F25F6E"], //
+			["chicarrón prensado",	"chicha",			"Aquatic ruin zone - Sonic the hedgehog 2",					"x.com/elalexisequisde",			"A4CB63"], //
+			["Coreyz",				"coreyz",			"damn son where'd you find this",							"x.com/Cartoon25600194",			"F25F6E"], //
 			[""],
 			["Coder:"],
 			["Gumpleworp",			"gumple",			"pooped in pants",											"x.com/irondoggo888",				"9AB0CD"], //
@@ -49,13 +49,13 @@ class CreditsState extends MusicBeatState
 			["Charters:"],
 			["Guy",					"guy",				"Kasane Teto Forever!!!!!",									"x.com/personanormal_t",			"D16477"], //
 			["kolas123",			"kolas",			"description",												"x.com/kolas23p",					"FFEE9C"], //
-			["El Cucs",				"cucs" + FlxG.random.int(1, 2),	"El que piensa en Pan, En po- piensan",			"x.com/cuc_20",						"898989"], //
+			["El Cucs",				"cucs" + FlxG.random.int(1, 2),	"el que pan piensa, en pollas piensa (asi era la frase?)",	"x.com/cuc_20",			"898989"], //
 			["Brenda Ameliatrix",	"ameliatrix",		"description",												"x.com/Brandon_el_XD",				"FD81B2"], //
 			[""],
 			["Artists:"],
 			["Vinzz",				"vinzz",			"description",												"x.com/VFunki",						"8F8080"], //
 			["Jereck",				"jereck",			"description",												"x.com/elJereckequisde",			"BC718A"], //
-			["Ale Arts",			"ale",				"description",												"x.com/4l3j0X_",					"EE3F3F"], //
+			["Ale Arts",			"ale",				"La FNF update se acerca",									"x.com/4l3j0X_",					"EE3F3F"], //
 			["Luxer",				"luxer",			"description",												"x.com/LuxerMH",					"7C89DF"], //
 			["clownfishtears",		"fishtears",		"description",												"x.com/clownfishtears",				"F1A95A"], //
 			["Jav",					"jav",				"Made Katya and then he became an idiot",					"facebook.com/JustJayOridk",		"CBCBCB"], //
@@ -64,7 +64,7 @@ class CreditsState extends MusicBeatState
 			["wazabitooooo",		"wazabito",			"description",												"x.com/SourBoy56",					"B33A3A"], //
 			["Garfy",				"yess",				"description",												"facebook.com/people/カルフィ-美術/pfbid04w2DsFctwom2TUoo9txh1JdWWG8DB8yHa4E4Usjkm3nTeBThWnScuuFyrdRaxy9Rl/",	"F0D4FD"], //
 			["Shadow Demoniac",		"demon",			"description",												"facebook.com/andys.perezperez",	"FF8B7F"], //
-			["The Almighty",		"almighty",			"description",												"x.com/S2ROH2",						"D84242"], //
+			["The Almighty",		"almighty",			"Full speed towards your heart",							"x.com/S2ROH2",						"D84242"], //
 			[""],
 			["Composers:"],
 			["GafoMet",				"gafomet",			"description",												"x.com/gafomet",					"8BB6DF"], //
