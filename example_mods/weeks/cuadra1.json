@@ -3,39 +3,39 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
-			"cg",
-			"mei",
+			"Tecno Swing",
+			"ax",
 			[
-				146,
-				113,
-				253
+				165,
+				58,
+				106
 			]
 		],
 		[
 			"Are You With Mei",
 			"mei",
 			[
-				146,
-				113,
-				253
+				191,
+				68,
+				86
 			]
 		]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "cuadra1"
+	"hideStoryMode": false,
+	"weekName": "cuadra1",
+	"hiddenUntilUnlocked": false
 }
