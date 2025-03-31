@@ -74,7 +74,14 @@ class GameOverSubstate extends MusicBeatSubstate
 			boyfriend.y += boyfriend.positionArray[1] - PlayState.instance.boyfriend.positionArray[1];
 		}
 		boyfriend.skipDance = true;
-		add(boyfriend);
+		
+		if(characterName == 'dead'){
+			boyfriend.alpha = 0;
+			add(boyfriend);
+			FlxTween.tween(boyfriend, {alpha: 1}, 2.7, {ease: FlxEase.smootherStepOut});
+		} else{
+			add(boyfriend);
+		} //poops
 
 		FlxG.sound.play(Paths.sound(deathSoundName));
 		FlxG.camera.scroll.set();
