@@ -38,50 +38,41 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			["On My Block"],
-			["Created by:"],
-			["Spumdwave",			"spumd",			"description",												"",									"72E672"],
 			["Directors:"],
-			["Binmead",				"binmead",			"description",												"x.com/Bimeadonmyblock",			"4E4C92"],
-			["Coreyz",				"coreyz",			"description",												"",									"8F8080"],
+			["Binmead",				"binmead",			"Todos flojos ni uno eficiente",							"x.com/Bimeadonmyblock",			"4E4C92"], //
+			["chicarrón prensado",	"chicha",			"description",												"x.com/elalexisequisde",			"A4CB63"], //
+			["Coreyz",				"coreyz",			"description",												"x.com/Cartoon25600194",			"F25F6E"], //
+			[""],
 			["Coder:"],
-			["Gumpleworp",			"gumple",			"pooped in pants",											"x.com/irondoggo888",				"DBC4A0"],
-			["Composers:"],
-			["chicarrón prensado",	"chicha",			"description",												"x.com/elalexisequisde",			"A4CB63"],
-			["GafoMet",				"gafomet",			"description",												"",									"8F8080"],
-			["eldavidBv",			"david",			"description",												"",									"7A80CB"],
-			["Redcon",				"redcon",			"description",												"",									"94E5F3"],
-			["kolas123",			"kolas",			"description",												"",									"FFEE9C"],
-			//Zenko
-			["Chromatic Maker:"],
-			["kvinxito",			"k",				"description",												"",									"8F8080"],
+			["Gumpleworp",			"gumple",			"pooped in pants",											"x.com/irondoggo888",				"9AB0CD"], //
+			[""],
 			["Charters:"],
-			//Aradido
-			//DF
-			["Dracolol",			"draco",			"description",												"",									"8F8080"],
-			["NilerYT",				"niler",			"description",												"",									"8F8080"],
-			//Sabas de Sandia
-			//brendaameliatrix
+			["Guy",					"guy",				"Kasane Teto Forever!!!!!",									"x.com/personanormal_t",			"D16477"], //
+			["kolas123",			"kolas",			"description",												"x.com/kolas23p",					"FFEE9C"], //
+			["El Cucs",				"cucs" + FlxG.random.int(1, 2),	"El que piensa en Pan, En po- piensan",			"x.com/cuc_20",						"898989"], //
+			["Brenda Ameliatrix",	"ameliatrix",		"description",												"x.com/Brandon_el_XD",				"FD81B2"], //
+			[""],
 			["Artists:"],
-			//Skeptical
-			["Luxer",				"luxer",			"description",												"",									"8F8080"],
-			["Ale",					"ale",				"description",												"",									"8F8080"],
-			["El Cucs",				"cucs" + FlxG.random.int(1, 2),	"description",									"",									"898989"],
-			["megu777",				"megu",				"description",												"",									"8F8080"],
-			//Maxi
-			//Jav
-			//S2ROH1 (maghty)
-			["wazabitooooo",		"wazabito",			"description",												"",									"8F8080"],
-			//Xhheadlights
-			["Vinzz",				"vinzz",			"description",												"",									"8F8080"],
-			["Shadow Demoniac",		"demon",			"description",												"",									"8F8080"],
-			["Yess",				"yess",				"description",												"",									"8F8080"],
-			["SGDM",				"sgdm",				"description",												"",									"8F8080"],
-			["Jereck",				"jereck",			"description",												"",									"BC718A"],
-			["clownfishtears",		"fishtears",		"description",												"x.com/clownfishtears",				"F1A95A"],
-			["Spring?",				"spring",			"description",												"",									"8F8080"],
+			["Vinzz",				"vinzz",			"description",												"x.com/VFunki",						"8F8080"], //
+			["Jereck",				"jereck",			"description",												"x.com/elJereckequisde",			"BC718A"], //
+			["Ale Arts",			"ale",				"description",												"x.com/4l3j0X_",					"EE3F3F"], //
+			["Luxer",				"luxer",			"description",												"x.com/LuxerMH",					"7C89DF"], //
+			["clownfishtears",		"fishtears",		"description",												"x.com/clownfishtears",				"F1A95A"], //
+			["Jav",					"jav",				"Made Katya and then he became an idiot",					"facebook.com/JustJayOridk",		"CBCBCB"], //
+			["megu777",				"megu",				"description",												"",									"7574AC"], //
+			["SGDM",				"sgdm",				"description",												"facebook.com/people/Jose-Angel/100091256721415/",	"B5D145"], //
+			["wazabitooooo",		"wazabito",			"description",												"x.com/SourBoy56",					"B33A3A"], //
+			["Garfy",				"yess",				"description",												"facebook.com/people/カルフィ-美術/pfbid04w2DsFctwom2TUoo9txh1JdWWG8DB8yHa4E4Usjkm3nTeBThWnScuuFyrdRaxy9Rl/",	"F0D4FD"], //
+			["Shadow Demoniac",		"demon",			"description",												"facebook.com/andys.perezperez",	"FF8B7F"], //
+			["The Almighty",		"almighty",			"description",												"x.com/S2ROH2",						"D84242"], //
+			[""],
+			["Composers:"],
+			["GafoMet",				"gafomet",			"description",												"x.com/gafomet",					"8BB6DF"], //
+			["Redcon",				"redcon",			"description",												"x.com/Redcon2648",					"94E5F3"], //
+			["Zenko",				"zenko",			"description",												"youtube.com/@zenkomusictm",		"C6ADFF"], //
+			[""],
 			["Animator:"],
-			//Sunky the gamer
+			["Sunky the Gamer",		"sunky",			"description",												"x.com/SunkyTheGamer2",				"6969FF"], //
 			[""],
 			['P-Slice Engine Team'],
 			['Mikolka9144',			'mikolka',			'Did everything for P-slice',								 'https://gamebanana.com/members/3329541',									'2ebcfa'],
