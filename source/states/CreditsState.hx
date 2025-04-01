@@ -50,14 +50,14 @@ class CreditsState extends MusicBeatState
 			["Guy",					"guy",				"Kasane Teto Forever!!!!!",									"x.com/personanormal_t",			"D16477"], //
 			["kolas123",			"kolas",			"description",												"x.com/kolas23p",					"FFEE9C"], //
 			["El Cucs",				"cucs" + FlxG.random.int(1, 2),	"el que pan piensa, en pollas piensa (asi era la frase?)",	"x.com/cuc_20",			"898989"], //
-			["Brenda Ameliatrix",	"ameliatrix",		"description",												"x.com/Brandon_el_XD",				"FD81B2"], //
+			["Brenda Ameliatrix",	"ameliatrix",		"quiero novia XD",											"x.com/Brandon_el_XD",				"FD81B2"], //
 			[""],
 			["Artists:"],
 			["Vinzz",				"vinzz",			"description",												"x.com/VFunki",						"8F8080"], //
 			["Jereck",				"jereck",			"description",												"x.com/elJereckequisde",			"BC718A"], //
 			["Ale Arts",			"ale",				"La FNF update se acerca",									"x.com/4l3j0X_",					"EE3F3F"], //
 			["Luxer",				"luxer",			"description",												"x.com/LuxerMH",					"7C89DF"], //
-			["clownfishtears",		"fishtears",		"description",												"x.com/clownfishtears",				"F1A95A"], //
+			["clownfishtears",		"fishtears",		"Me despido de ustedes fue un gusto trabajar aquí...",		"x.com/clownfishtears",				"F1A95A"], //
 			["Jav",					"jav",				"Made Katya and then he became an idiot",					"facebook.com/JustJayOridk",		"CBCBCB"], //
 			["megu777",				"megu",				"description",												"",									"7574AC"], //
 			["SGDM",				"sgdm",				"description",												"facebook.com/people/Jose-Angel/100091256721415/",	"B5D145"], //
@@ -67,7 +67,7 @@ class CreditsState extends MusicBeatState
 			["The Almighty",		"almighty",			"Full speed towards your heart",							"x.com/S2ROH2",						"D84242"], //
 			[""],
 			["Composers:"],
-			["GafoMet",				"gafomet",			"description",												"x.com/gafomet",					"8BB6DF"], //
+			["GafoMet",				"gafomet",			"amo a candy",												"x.com/gafomet",					"8BB6DF"], //
 			["Redcon",				"redcon",			"description",												"x.com/Redcon2648",					"94E5F3"], //
 			["Zenko",				"zenko",			"description",												"youtube.com/@zenkomusictm",		"C6ADFF"], //
 			[""],
