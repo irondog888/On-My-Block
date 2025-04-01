@@ -35,7 +35,7 @@ class PixelatedIcon extends FlxFilteredSprite
       case LEGACY:
         // Legacy FNF icon (no freeplay one)
         var charPath:String = "icons/";
-        charPath += "icon-";
+        //charPath += "icon-"; //poops
         charPath += '${char}';
         
         
