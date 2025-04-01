@@ -1,0 +1,8 @@
+{
+	"idle_anim": "katya",
+	"confirm_anim": "katya",
+	"antialiasing": true,
+	"position": [210, 175],
+	"scale": 0.44,
+	"image": "Menu_KATYA"
+}

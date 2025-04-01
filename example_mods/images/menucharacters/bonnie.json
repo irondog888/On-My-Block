@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"confirm_anim": "idle",
+	"antialiasing": true,
+	"position": [525, 260],
+	"scale": 0.25,
+	"flipX": false,
+	"image": "Menu_BONNIE"
+}

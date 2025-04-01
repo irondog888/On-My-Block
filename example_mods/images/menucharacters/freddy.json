@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"antialiasing": true,
+	"confirm_anim": "idle",
+	"position": [660, -20],
+	"scale": 0.5,
+	"flipX": false,
+	"image": "Menu_FREDDY"
+}

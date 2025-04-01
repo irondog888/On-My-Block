@@ -1,0 +1,9 @@
+{
+	"idle_anim": "gato_idle",
+	"confirm_anim": "gato_idle",
+	"antialiasing": true,
+	"position": [5, -100],
+	"scale": 0.45,
+	"flipX": true,
+	"image": "Menu_GATO"
+}

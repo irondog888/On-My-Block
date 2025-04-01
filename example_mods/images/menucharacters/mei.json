@@ -1,0 +1,9 @@
+{
+	"confirm_anim": "Idle",
+	"antialiasing": true,
+	"idle_anim": "Idle",
+	"position": [130, 290],
+	"scale": 0.35,
+	"image": "Menu_MEI",
+	"flipX": false
+}

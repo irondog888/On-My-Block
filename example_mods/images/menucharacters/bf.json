@@ -1,0 +1,8 @@
+{
+	"antialiasing": true,
+	"confirm_anim": "idle",
+	"idle_anim": "idle",
+	"position": [495, 400],
+	"scale": 0.17,
+	"image": "Menu_BF"
+}

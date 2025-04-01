@@ -2,19 +2,15 @@
 	"storyName": "On My Block",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "blooteg",
+	"weekBefore": "cuadra1",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "cuadra1",
 	"startUnlocked": false,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"blooteg",
@@ -26,7 +22,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "bonus",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"bonnie",
+		"rei",
+		"freddy"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bonus"
 }

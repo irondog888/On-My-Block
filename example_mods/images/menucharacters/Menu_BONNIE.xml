@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_BONNIE.png">
+<SubTexture name="idle0000" x="1138" y="0" width="375" height="564" frameX="-426" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="1138" y="0" width="375" height="564" frameX="-426" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="0" y="0" width="377" height="571" frameX="-424" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="0" y="0" width="377" height="571" frameX="-424" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0004" x="377" y="0" width="377" height="574" frameX="-424" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0005" x="377" y="0" width="377" height="574" frameX="-424" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0006" x="754" y="0" width="376" height="573" frameX="-425" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0007" x="754" y="0" width="376" height="573" frameX="-425" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0008" x="1513" y="0" width="375" height="573" frameX="-426" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0009" x="1513" y="0" width="375" height="573" frameX="-426" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0010" x="1513" y="0" width="375" height="573" frameX="-426" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0011" x="1513" y="0" width="375" height="573" frameX="-426" frameY="-57" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

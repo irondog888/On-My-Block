@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"antialiasing": true,
+	"confirm_anim": "idle",
+	"position": [0, -30],
+	"scale": 0.4,
+	"flipX": true,
+	"image": "Menu_Rei"
+}

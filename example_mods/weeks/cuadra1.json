@@ -2,7 +2,7 @@
 	"storyName": "There's pee everywhere",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "stageDay",
 	"freeplayColor": [
 		146,
 		113,
@@ -11,7 +11,7 @@
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
+		"mei",
 		"bf",
 		"gf"
 	],
