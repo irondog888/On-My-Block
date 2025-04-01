@@ -48,31 +48,31 @@ class CreditsState extends MusicBeatState
 			[""],
 			["Charters:"],
 			["Guy",					"guy",				"Kasane Teto Forever!!!!!",									"x.com/personanormal_t",			"D16477"], //
-			["kolas123",			"kolas",			"description",												"x.com/kolas23p",					"FFEE9C"], //
+			["kolas123",			"kolas",			"",												"x.com/kolas23p",					"FFEE9C"], //
 			["El Cucs",				"cucs" + FlxG.random.int(1, 2),	"el que pan piensa, en pollas piensa (asi era la frase?)",	"x.com/cuc_20",			"898989"], //
 			["Brenda Ameliatrix",	"ameliatrix",		"quiero novia XD",											"x.com/Brandon_el_XD",				"FD81B2"], //
 			[""],
 			["Artists:"],
-			["Vinzz",				"vinzz",			"description",												"x.com/VFunki",						"8F8080"], //
-			["Jereck",				"jereck",			"description",												"x.com/elJereckequisde",			"BC718A"], //
+			["Vinzz",				"vinzz",			"",												"x.com/VFunki",						"8F8080"], //
+			["Jereck",				"jereck",			"",												"x.com/elJereckequisde",			"BC718A"], //
 			["Ale Arts",			"ale",				"La FNF update se acerca",									"x.com/4l3j0X_",					"EE3F3F"], //
-			["Luxer",				"luxer",			"description",												"x.com/LuxerMH",					"7C89DF"], //
+			["Luxer",				"luxer",			"",												"x.com/LuxerMH",					"7C89DF"], //
 			["clownfishtears",		"fishtears",		"Me despido de ustedes fue un gusto trabajar aquí...",		"x.com/clownfishtears",				"F1A95A"], //
 			["Jav",					"jav",				"Made Katya and then he became an idiot",					"facebook.com/JustJayOridk",		"CBCBCB"], //
-			["megu777",				"megu",				"description",												"",									"7574AC"], //
-			["SGDM",				"sgdm",				"description",												"facebook.com/people/Jose-Angel/100091256721415/",	"B5D145"], //
-			["wazabitooooo",		"wazabito",			"description",												"x.com/SourBoy56",					"B33A3A"], //
-			["Garfy",				"yess",				"description",												"facebook.com/people/カルフィ-美術/pfbid04w2DsFctwom2TUoo9txh1JdWWG8DB8yHa4E4Usjkm3nTeBThWnScuuFyrdRaxy9Rl/",	"F0D4FD"], //
-			["Shadow Demoniac",		"demon",			"description",												"facebook.com/andys.perezperez",	"FF8B7F"], //
+			["megu777",				"megu",				"",												"",									"7574AC"], //
+			["SGDM",				"sgdm",				"",												"facebook.com/people/Jose-Angel/100091256721415/",	"B5D145"], //
+			["wazabitooooo",		"wazabito",			"",												"x.com/SourBoy56",					"B33A3A"], //
+			["Garfy",				"yess",				"",												"facebook.com/people/カルフィ-美術/pfbid04w2DsFctwom2TUoo9txh1JdWWG8DB8yHa4E4Usjkm3nTeBThWnScuuFyrdRaxy9Rl/",	"F0D4FD"], //
+			["Shadow Demoniac",		"demon",			"",												"facebook.com/andys.perezperez",	"FF8B7F"], //
 			["The Almighty",		"almighty",			"Full speed towards your heart",							"x.com/S2ROH2",						"D84242"], //
 			[""],
 			["Composers:"],
 			["GafoMet",				"gafomet",			"amo a candy",												"x.com/gafomet",					"8BB6DF"], //
-			["Redcon",				"redcon",			"description",												"x.com/Redcon2648",					"94E5F3"], //
-			["Zenko",				"zenko",			"description",												"youtube.com/@zenkomusictm",		"C6ADFF"], //
+			["Redcon",				"redcon",			"",												"x.com/Redcon2648",					"94E5F3"], //
+			["Zenko",				"zenko",			"",												"youtube.com/@zenkomusictm",		"C6ADFF"], //
 			[""],
 			["Animator:"],
-			["Sunky the Gamer",		"sunky",			"description",												"x.com/SunkyTheGamer2",				"6969FF"], //
+			["Sunky the Gamer",		"sunky",			"",												"x.com/SunkyTheGamer2",				"6969FF"], //
 			[""],
 			['P-Slice Engine Team'],
 			['Mikolka9144',			'mikolka',			'Did everything for P-slice',								 'https://gamebanana.com/members/3329541',									'2ebcfa'],
