@@ -2050,7 +2050,7 @@ class PlayState extends MusicBeatState
 		DiscordClient.resetClientID();
 		#end
 
-		/*var coomers:FlxSprite; //poopies
+		var coomers:FlxSprite; //poopies
 		coomers = new FlxSprite(0, 0);
 		coomers.frames = Paths.getSparrowAtlas('FUCK/coomers');
 		coomers.antialiasing = ClientPrefs.data.antialiasing;
@@ -2060,12 +2060,15 @@ class PlayState extends MusicBeatState
 		coomers.setGraphicSize(FlxG.width, FlxG.height);
 		coomers.cameras = [camHUD];
 		coomers.updateHitbox();
+		
+		notes.visible = false;
+		strumLineNotes.visible = false;
 
 		//camHUD.alpha = 0;
-		FlxG.sound.play(Paths.sound('coomers')); //poopy
-		add(coomers);*/
+		FlxG.sound.play(Paths.sound('coomers'), 1, true); //poopy
+		add(coomers);
 
-		MusicBeatState.switchState(new ChartingState()); //commentify this and remove previous commentify to make goofy troll hehahaha
+		//MusicBeatState.switchState(new ChartingState()); //commentify this and remove previous commentify to make goofy troll hehahaha
 	}
 
 	function openCharacterEditor()
