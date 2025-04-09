@@ -2,7 +2,7 @@ local ofs;
 local x; local y;
 local xx; local yy;
 
-if songName == 'tecno-swing' or songName == 'are-you-with-mei' then
+if songName == 'Tecno Swing' or songName == 'are-you-with-mei' or songName == 'Aye' then
     ofs = 30
     x = 540; y = 520
     xx = 770; yy = 610
