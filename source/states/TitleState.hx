@@ -199,7 +199,7 @@ class TitleState extends MusicBeatState
 		mei.setGraphicSize(Std.int(mei.width*0.9));
 		mei.updateHitbox();
 
-		logoBl = new FlxSprite(logoPosition.x, logoPosition.y);
+		logoBl = new FlxSprite(logoPosition.x, -250);
 		logoBl.frames = Paths.getSparrowAtlas('start/logoBumpin'); //poopy
 		logoBl.antialiasing = ClientPrefs.data.antialiasing;
 
