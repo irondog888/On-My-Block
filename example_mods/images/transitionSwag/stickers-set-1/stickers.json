@@ -8,10 +8,14 @@
     "mom": ["momSticker1", "momSticker2", "momSticker3"],
     "monster": ["monsterSticker1", "monsterSticker2", "monsterSticker3"],
     "gf": ["gfSticker1", "gfSticker2", "gfSticker3"],
+    "pan": ["panSticker2"],
+    "death": ["panSticker1", "ratSticker", "binirlSticker"]
   },
   "stickerPacks": {
     "bf-gf": ["bf", "gf"],
     "parents": ["dad", "mom"],
     "all": ["bf", "gf", "dad", "mom", "monster", "pico"],
+    "omb": ["bf", "gf", "pan"],
+    "GOD": ["death"]
   }
 }
