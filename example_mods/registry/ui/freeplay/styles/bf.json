@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "bgAsset": "freeplay/freeplayBGdad",
+  "selectorAsset": "freeplay/freeplaySelector/freeplaySelector",
+  "numbersAsset": "digital_numbers",
+  "capsuleAsset": "freeplay/freeplayCapsule/capsule/freeplayCapsule",
+  "capsuleTextColors": ["#ff2222", "#ff2222"],
+  "startDelay": 1.0
+}
