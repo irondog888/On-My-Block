@@ -33,7 +33,7 @@
     un mod todo culero usando P-slice por que V-slice da vergal de lag jasjajs
    
 
-#### Made With
+#### Hecho con 
 <img src="https://img.shields.io/badge/-HAXE-262626.svg?logo=haxe&style=for-the-badge">
 
 
@@ -47,7 +47,7 @@ Lore en
 
 
 <!-- LICENSE -->
-## License
+## Licensia (no se como sirve esto atte Bin)
 
 Distributed under the Apache License 2.0. See [Licence](https://github.com/Psych-Slice/blob/P-Slice/master/LICENSE) for more information.
 
