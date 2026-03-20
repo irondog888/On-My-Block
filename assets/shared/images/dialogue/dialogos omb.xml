@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogos omb.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Niko0000" x="12" y="12" width="926" height="1235"/>
+	<SubTexture name="a equix0000" x="948" y="12" width="926" height="1235"/>
+	<SubTexture name="beefe0000" x="1884" y="12" width="926" height="1235"/>
+	<SubTexture name="katia0000" x="2820" y="12" width="926" height="1235"/>
+	<SubTexture name="mei0000" x="12" y="1257" width="1026" height="1368"/>
+</TextureAtlas>
