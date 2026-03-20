@@ -3,7 +3,7 @@
 	"difficulties": "easy",
 	"hideFreeplay": false,
 	"weekBackground": "stageNight",
-	"weekBefore": "madness",
+	"weekBefore": "bonus",
 	"freeplayColor": [
 		146,
 		113,
@@ -17,16 +17,16 @@
 	],
 	"songs": [
 		[
-			"Aye",
+			"autopsy",
 			"gato",
 			[
-				255,
-				236,
-				175
+				0,
+				0,
+				0
 			]
 		]
 	],
 	"hideStoryMode": true,
-	"weekName": "colab",
+	"weekName": "colab2",
 	"hiddenUntilUnlocked": false
 }

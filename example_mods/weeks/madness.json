@@ -1,0 +1,51 @@
+{
+	"storyName": "On My Block",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	
+	"weekBackground": "nevada",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	
+	"startUnlocked": false,
+	"weekCharacters": [
+		"ax",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"incident-346c",
+			"craig",
+			[
+				255,
+				236,
+				175
+			]
+		],
+		[
+			"forever-a-clone",
+			"fina",
+			[
+				255,
+				236,
+				175
+			]
+		],
+		[
+			"code-rr",
+			"ref",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "madness",
+	"hiddenUntilUnlocked": false
+}

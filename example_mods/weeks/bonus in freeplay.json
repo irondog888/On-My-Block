@@ -2,8 +2,8 @@
 	"storyName": "On My Block",
 	"difficulties": "hard",
 	"hideFreeplay": false,
-	"weekBefore": "colab",
 	"weekBackground": "blooteg",
+	"weekBefore": "cuadra1",
 	"freeplayColor": [
 		146,
 		113,
@@ -13,8 +13,8 @@
 	"hideStoryMode": true,
 	"songs": [
 		[
-			"blooteg",
-			"balls",
+			"air-seller",
+			"cancel",
 			[
 				54,
 				51,
@@ -28,5 +28,5 @@
 		"freddy"
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "bonus"
+	"weekName": "bonus2"
 }

@@ -1,24 +1,24 @@
 {
 	"storyName": "On My Block",
-	"difficulties": "easy",
+	"difficulties": "Normal",
 	"hideFreeplay": false,
-	"weekBackground": "stageNight",
-	"weekBefore": "madness",
+	"weekBackground": "stageDay",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
+	
+	"startUnlocked": false,
 	"weekCharacters": [
-		"mei",
-		"gato",
+		"ax",
+		"mei-tuto",
 		"gf"
 	],
 	"songs": [
 		[
-			"Aye",
-			"gato",
+			"just-do-it-(tutorial)",
+			"ax",
 			[
 				255,
 				236,
@@ -26,7 +26,7 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "colab",
+	"hideStoryMode": false,
+	"weekName": "tutorial",
 	"hiddenUntilUnlocked": false
 }

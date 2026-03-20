@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"salsa-tatemada",
+			"corey",
+			[
+				255,
+				20,
+				40
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "creig",
+	"weekName": "minimadness",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
