@@ -38,42 +38,6 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			["Directors:"],
-			["Binmead",				"binmead",			"Todos flojos ni uno eficiente",							"x.com/Bimeadonmyblock",			"4E4C92"], //
-			["chicarrón prensado",	"chicha",			"Aquatic ruin zone - Sonic the hedgehog 2",					"x.com/elalexisequisde",			"A4CB63"], //
-			["Coreyz",				"coreyz",			"damn son where'd you find this",							"x.com/Cartoon25600194",			"F25F6E"], //
-			[""],
-			["Coder:"],
-			["Gumpleworp",			"gumple",			"pooped in pants",											"x.com/irondoggo888",				"9AB0CD"], //
-			[""],
-			["Charters:"],
-			["Guy",					"guy",				"Kasane Teto Forever!!!!!",									"x.com/personanormal_t",			"D16477"], //
-			["kolas123",			"kolas",			"",												"x.com/kolas23p",					"FFEE9C"], //
-			["El Cucs",				"cucs" + FlxG.random.int(1, 2),	"el que pan piensa, en pollas piensa (asi era la frase?)",	"x.com/cuc_20",			"898989"], //
-			["Brenda Ameliatrix",	"ameliatrix",		"quiero novia XD",											"x.com/Brandon_el_XD",				"FD81B2"], //
-			[""],
-			["Artists:"],
-			["Vinzz",				"vinzz",			"",												"x.com/VFunki",						"8F8080"], //
-			["Jereck",				"jereck",			"",												"x.com/elJereckequisde",			"BC718A"], //
-			["Ale Arts",			"ale",				"La FNF update se acerca",									"x.com/4l3j0X_",					"EE3F3F"], //
-			["Luxer",				"luxer",			"",												"x.com/LuxerMH",					"7C89DF"], //
-			["clownfishtears",		"fishtears",		"Me despido de ustedes fue un gusto trabajar aquí...",		"x.com/clownfishtears",				"F1A95A"], //
-			["Jav",					"jav",				"Made Katya and then he became an idiot",					"facebook.com/JustJayOridk",		"CBCBCB"], //
-			["megu777",				"megu",				"",												"",									"7574AC"], //
-			["SGDM",				"sgdm",				"",												"facebook.com/people/Jose-Angel/100091256721415/",	"B5D145"], //
-			["wazabitooooo",		"wazabito",			"",												"x.com/SourBoy56",					"B33A3A"], //
-			["Garfy",				"yess",				"",												"facebook.com/people/カルフィ-美術/pfbid04w2DsFctwom2TUoo9txh1JdWWG8DB8yHa4E4Usjkm3nTeBThWnScuuFyrdRaxy9Rl/",	"F0D4FD"], //
-			["Shadow Demoniac",		"demon",			"",												"facebook.com/andys.perezperez",	"FF8B7F"], //
-			["The Almighty",		"almighty",			"Full speed towards your heart",							"x.com/S2ROH2",						"D84242"], //
-			[""],
-			["Composers:"],
-			["GafoMet",				"gafomet",			"amo a candy",												"x.com/gafomet",					"8BB6DF"], //
-			["Redcon",				"redcon",			"",												"x.com/Redcon2648",					"94E5F3"], //
-			["Zenko",				"zenko",			"",												"youtube.com/@zenkomusictm",		"C6ADFF"], //
-			[""],
-			["Animator:"],
-			["Sunky the Gamer",		"sunky",			"",												"x.com/SunkyTheGamer2",				"6969FF"], //
-			[""],
 			['P-Slice Engine Team'],
 			['Mikolka9144',			'mikolka',			'Did everything for P-slice',								 'https://gamebanana.com/members/3329541',									'2ebcfa'],
 			['mcagabe19',			'lily',             'Porter of P-slice and author of linc_luajit-rewriten',                       'https://youtube.com/@mcagabe19',		'FFE7C0'],
