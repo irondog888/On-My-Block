@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Niko game ovrt.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death0000" x="12" y="12" width="1800" height="1800"/>
+	<SubTexture name="death0001" x="12" y="12" width="1800" height="1800"/>
+	<SubTexture name="death0002" x="12" y="12" width="1800" height="1800"/>
+	<SubTexture name="death0003" x="12" y="12" width="1800" height="1800"/>
+	<SubTexture name="death0004" x="12" y="12" width="1800" height="1800"/>
+	<SubTexture name="death0005" x="12" y="12" width="1800" height="1800"/>
+	<SubTexture name="death end0000" x="1822" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0001" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0002" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0003" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0004" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0005" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0006" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0007" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0008" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0009" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0010" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0011" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death end0012" x="4042" y="12" width="2210" height="2105"/>
+	<SubTexture name="death fisrt0000" x="12" y="2127" width="2068" height="2231"/>
+	<SubTexture name="death fisrt0001" x="2090" y="2127" width="2068" height="2231"/>
+	<SubTexture name="death fisrt0002" x="2090" y="2127" width="2068" height="2231"/>
+	<SubTexture name="death fisrt0003" x="2090" y="2127" width="2068" height="2231"/>
+	<SubTexture name="death fisrt0004" x="2090" y="2127" width="2068" height="2231"/>
+	<SubTexture name="death fisrt0005" x="2090" y="2127" width="2068" height="2231"/>
+	<SubTexture name="death fisrt0006" x="2090" y="2127" width="2068" height="2231"/>
+</TextureAtlas>

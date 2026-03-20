@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Daidaidaikirai.png">
+<SubTexture name="TetoDown 0000" x="0" y="0" width="67" height="125" frameX="-17" frameY="-17" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0001" x="0" y="0" width="67" height="125" frameX="-17" frameY="-17" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0002" x="67" y="0" width="67" height="126" frameX="-17" frameY="-16" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0003" x="67" y="0" width="67" height="126" frameX="-17" frameY="-16" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0004" x="134" y="0" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0005" x="134" y="0" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0006" x="134" y="0" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0007" x="134" y="0" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0008" x="134" y="0" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0009" x="134" y="0" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0010" x="134" y="0" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoDown 0011" x="134" y="0" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="TetoIdle 0000" x="201" y="0" width="79" height="134" frameX="-6" frameY="-8" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0001" x="201" y="0" width="79" height="134" frameX="-6" frameY="-8" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0002" x="280" y="0" width="79" height="134" frameX="-6" frameY="-8" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0003" x="280" y="0" width="79" height="134" frameX="-6" frameY="-8" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0004" x="359" y="0" width="79" height="135" frameX="-6" frameY="-7" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0005" x="359" y="0" width="79" height="135" frameX="-6" frameY="-7" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0006" x="438" y="0" width="79" height="137" frameX="-7" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0007" x="438" y="0" width="79" height="137" frameX="-7" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0008" x="517" y="0" width="81" height="135" frameX="-6" frameY="-7" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0009" x="517" y="0" width="81" height="135" frameX="-6" frameY="-7" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0010" x="0" y="137" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0011" x="0" y="137" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0012" x="0" y="137" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0013" x="0" y="137" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0014" x="0" y="137" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0015" x="0" y="137" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0016" x="0" y="137" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoIdle 0017" x="0" y="137" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="TetoLeft 0000" x="81" y="137" width="71" height="137" frameX="0" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0001" x="81" y="137" width="71" height="137" frameX="0" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0002" x="152" y="137" width="69" height="138" frameX="-2" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0003" x="152" y="137" width="69" height="138" frameX="-2" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0004" x="221" y="137" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0005" x="221" y="137" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0006" x="221" y="137" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0007" x="221" y="137" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0008" x="221" y="137" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0009" x="221" y="137" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0010" x="221" y="137" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoLeft 0011" x="221" y="137" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="TetoRight 0000" x="289" y="137" width="71" height="137" frameX="-13" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0001" x="289" y="137" width="71" height="137" frameX="-13" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0002" x="360" y="137" width="70" height="138" frameX="-12" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0003" x="360" y="137" width="70" height="138" frameX="-12" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0004" x="430" y="137" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0005" x="430" y="137" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0006" x="430" y="137" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0007" x="430" y="137" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0008" x="430" y="137" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0009" x="430" y="137" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0010" x="430" y="137" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoRight 0011" x="430" y="137" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="TetoUp 0000" x="500" y="137" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0001" x="500" y="137" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0002" x="0" y="278" width="70" height="142" frameX="-9" frameY="0" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0003" x="0" y="278" width="70" height="142" frameX="-9" frameY="0" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0004" x="70" y="278" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0005" x="70" y="278" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0006" x="70" y="278" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0007" x="70" y="278" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0008" x="70" y="278" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0009" x="70" y="278" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0010" x="70" y="278" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="TetoUp 0011" x="70" y="278" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="Teto Mad Down 0000" x="139" y="278" width="67" height="125" frameX="-17" frameY="-17" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0001" x="139" y="278" width="67" height="125" frameX="-17" frameY="-17" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0002" x="206" y="278" width="67" height="126" frameX="-17" frameY="-16" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0003" x="206" y="278" width="67" height="126" frameX="-17" frameY="-16" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0004" x="273" y="278" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0005" x="273" y="278" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0006" x="273" y="278" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0007" x="273" y="278" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0008" x="273" y="278" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0009" x="273" y="278" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0010" x="273" y="278" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Down 0011" x="273" y="278" width="67" height="131" frameX="-17" frameY="-11" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="Teto Mad Idle 0000" x="340" y="278" width="79" height="134" frameX="-6" frameY="-8" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0001" x="340" y="278" width="79" height="134" frameX="-6" frameY="-8" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0002" x="419" y="278" width="79" height="134" frameX="-6" frameY="-8" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0003" x="419" y="278" width="79" height="134" frameX="-6" frameY="-8" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0004" x="498" y="278" width="79" height="135" frameX="-6" frameY="-7" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0005" x="498" y="278" width="79" height="135" frameX="-6" frameY="-7" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0006" x="0" y="420" width="79" height="137" frameX="-7" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0007" x="0" y="420" width="79" height="137" frameX="-7" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0008" x="79" y="420" width="81" height="135" frameX="-6" frameY="-7" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0009" x="79" y="420" width="81" height="135" frameX="-6" frameY="-7" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0010" x="160" y="420" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0011" x="160" y="420" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0012" x="160" y="420" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0013" x="160" y="420" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0014" x="160" y="420" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0015" x="160" y="420" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0016" x="160" y="420" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Idle 0017" x="160" y="420" width="81" height="136" frameX="-6" frameY="-6" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="Teto Mad Left 0000" x="241" y="420" width="71" height="137" frameX="0" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0001" x="241" y="420" width="71" height="137" frameX="0" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0002" x="312" y="420" width="69" height="138" frameX="-2" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0003" x="312" y="420" width="69" height="138" frameX="-2" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0004" x="381" y="420" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0005" x="381" y="420" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0006" x="381" y="420" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0007" x="381" y="420" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0008" x="381" y="420" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0009" x="381" y="420" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0010" x="381" y="420" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Left 0011" x="381" y="420" width="68" height="138" frameX="-3" frameY="-4" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="Teto Mad Right 0000" x="449" y="420" width="71" height="137" frameX="-13" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0001" x="449" y="420" width="71" height="137" frameX="-13" frameY="-5" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0002" x="520" y="420" width="70" height="138" frameX="-12" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0003" x="520" y="420" width="70" height="138" frameX="-12" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0004" x="0" y="558" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0005" x="0" y="558" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0006" x="0" y="558" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0007" x="0" y="558" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0008" x="0" y="558" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0009" x="0" y="558" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0010" x="0" y="558" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Right 0011" x="0" y="558" width="70" height="138" frameX="-11" frameY="-4" frameWidth="67" frameHeight="122" />
+
+<SubTexture name="Teto Mad Up 0000" x="70" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0001" x="70" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0002" x="139" y="558" width="70" height="142" frameX="-9" frameY="0" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0003" x="139" y="558" width="70" height="142" frameX="-9" frameY="0" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0004" x="209" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0005" x="209" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0006" x="209" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0007" x="209" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0008" x="209" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0009" x="209" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0010" x="209" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+<SubTexture name="Teto Mad Up 0011" x="209" y="558" width="69" height="141" frameX="-9" frameY="-1" frameWidth="67" frameHeight="122" />
+</TextureAtlas>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ax.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ax stage0000" x="12" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0001" x="12" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0002" x="408" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0003" x="408" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0004" x="804" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0005" x="804" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0006" x="1200" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0007" x="1200" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0008" x="1596" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0009" x="1596" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0010" x="1596" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0011" x="1596" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0012" x="1596" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0013" x="1596" y="12" width="386" height="780"/>
+	<SubTexture name="Ax stage0014" x="12" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0015" x="12" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0016" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0017" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0018" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0019" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0020" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0021" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0022" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0023" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0024" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0025" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0026" x="408" y="802" width="386" height="780"/>
+	<SubTexture name="Ax stage0027" x="408" y="802" width="386" height="780"/>
+</TextureAtlas>

@@ -1,21 +1,20 @@
 {
   "name": "stickers-set-1",
-  "artist": "PhantomArcade3K",
+  "artist": "Omb team",
   "stickers": {
     "bf": ["bfSticker1", "bfSticker2", "bfSticker3"],
-    "dad": ["dadSticker1", "dadSticker2", "dadSticker3"],
-    "pico": ["picoSticker1", "picoSticker2", "picoSticker3"],
-    "mom": ["momSticker1", "momSticker2", "momSticker3"],
-    "monster": ["monsterSticker1", "monsterSticker2", "monsterSticker3"],
-    "gf": ["gfSticker1", "gfSticker2", "gfSticker3"],
-    "pan": ["panSticker2"],
-    "death": ["panSticker1", "ratSticker", "binirlSticker"]
+    "random": ["panSticker1","panSticker2","ratSticker"],
+    "mei": ["mei1","mei2","mei3","mei4"],
+    "niko": ["niko1", "niko2", "niko3"],
+    "ax": ["ax1", "ax2", "ax3"]
   },
   "stickerPacks": {
-    "bf-gf": ["bf", "gf"],
-    "parents": ["dad", "mom"],
-    "all": ["bf", "gf", "dad", "mom", "monster", "pico"],
-    "omb": ["bf", "gf", "pan"],
-    "GOD": ["death"]
+    "omb": ["bf","mei","ax","niko"],
+    "GOD": ["random"],
+    "BFS": ["mei","ax"],
+    "niko": ["niko"],
+    "mei": ["mei"]
+    
+
   }
 }

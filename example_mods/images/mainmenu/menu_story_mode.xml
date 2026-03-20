@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="menu_story_mode.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="story_mode idle0000" x="1" y="598" width="819" height="149"/>
+	<SubTexture name="story_mode idle0001" x="1" y="598" width="819" height="149"/>
+	<SubTexture name="story_mode idle0002" x="1" y="598" width="819" height="149"/>
+	<SubTexture name="story_mode idle0003" x="1" y="749" width="819" height="149"/>
+	<SubTexture name="story_mode idle0004" x="1" y="749" width="819" height="149"/>
+	<SubTexture name="story_mode idle0005" x="1" y="749" width="819" height="149"/>
+	<SubTexture name="story_mode idle0006" x="1" y="900" width="819" height="149"/>
+	<SubTexture name="story_mode idle0007" x="1" y="900" width="819" height="149"/>
+	<SubTexture name="story_mode idle0008" x="1" y="900" width="819" height="149"/>
+	<SubTexture name="story_mode selected0000" x="1" y="1" width="982" height="197"/>
+	<SubTexture name="story_mode selected0001" x="1" y="200" width="982" height="197"/>
+	<SubTexture name="story_mode selected0002" x="1" y="399" width="982" height="197"/>
+</TextureAtlas>

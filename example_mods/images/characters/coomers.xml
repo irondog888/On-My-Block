@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coomers.png">
+	<!-- I, God, created this spritesheet so that you may spin. Partake. -->
+	<SubTexture name="speen0000" x="0" y="0" width="2471" height="1391"/>
+	<SubTexture name="speen0001" x="2471" y="0" width="2471" height="1391"/>
+</TextureAtlas>

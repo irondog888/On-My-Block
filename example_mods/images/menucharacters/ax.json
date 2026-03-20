@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"image": "Menu_AX",
+	"position": [120, 300],
+	"flipX": true,
+	"antialiasing": true,
+	"scale": 0.35,
+	"confirm_anim": "hey"
+}

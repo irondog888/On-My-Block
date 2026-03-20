@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goonremaster.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="772" height="1012" frameX="-8" frameY="-54" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0001" x="0" y="0" width="772" height="1012" frameX="-8" frameY="-54" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0002" x="777" y="0" width="770" height="1005" frameX="0" frameY="-61" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0003" x="777" y="0" width="770" height="1005" frameX="0" frameY="-61" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0004" x="1552" y="0" width="740" height="1056" frameX="-36" frameY="-10" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0005" x="1552" y="0" width="740" height="1056" frameX="-36" frameY="-10" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0006" x="2297" y="0" width="732" height="1066" frameX="-43" frameY="0" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0007" x="2297" y="0" width="732" height="1066" frameX="-43" frameY="0" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0008" x="2297" y="0" width="732" height="1066" frameX="-43" frameY="0" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0009" x="2297" y="0" width="732" height="1066" frameX="-43" frameY="0" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0010" x="2297" y="0" width="732" height="1066" frameX="-43" frameY="0" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0011" x="2297" y="0" width="732" height="1066" frameX="-43" frameY="0" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0012" x="2297" y="0" width="732" height="1066" frameX="-43" frameY="0" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="down0013" x="2297" y="0" width="732" height="1066" frameX="-43" frameY="0" frameWidth="780" frameHeight="1066"/>
+	<SubTexture name="goon laugh0000" x="3034" y="0" width="456" height="1189" frameX="-86" frameY="-26" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0001" x="3034" y="0" width="456" height="1189" frameX="-86" frameY="-26" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0002" x="3495" y="0" width="457" height="1185" frameX="-72" frameY="-30" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0003" x="3495" y="0" width="457" height="1185" frameX="-72" frameY="-30" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0004" x="3957" y="0" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0005" x="3957" y="0" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0006" x="4460" y="0" width="494" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0007" x="4460" y="0" width="494" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0008" x="4959" y="0" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0009" x="4959" y="0" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0010" x="5462" y="0" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0011" x="5462" y="0" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0012" x="5962" y="0" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0013" x="5962" y="0" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0014" x="6465" y="0" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0015" x="6465" y="0" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0016" x="6965" y="0" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0017" x="6965" y="0" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0018" x="7468" y="0" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0019" x="7468" y="0" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0020" x="0" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0021" x="0" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0022" x="503" y="1194" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0023" x="503" y="1194" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0024" x="1003" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0025" x="1003" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0026" x="1506" y="1194" width="494" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0027" x="1506" y="1194" width="494" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0028" x="2005" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0029" x="2005" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0030" x="7468" y="0" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0031" x="7468" y="0" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0032" x="0" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0033" x="0" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0034" x="503" y="1194" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0035" x="503" y="1194" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0036" x="1003" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0037" x="1003" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0038" x="2508" y="1194" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0039" x="2508" y="1194" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0040" x="3008" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0041" x="3008" y="1194" width="498" height="1170" frameX="-1" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0042" x="3511" y="1194" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0043" x="3511" y="1194" width="495" height="1172" frameX="-4" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0044" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0045" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0046" x="4751" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0047" x="4751" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0048" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0049" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0050" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0051" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0052" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0053" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0054" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0055" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0056" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0057" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0058" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0059" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0060" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0061" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0062" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0063" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0064" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0065" x="4011" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0066" x="5491" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0067" x="5491" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0068" x="6231" y="1194" width="735" height="1172" frameX="-5" frameY="-43" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0069" x="6971" y="1194" width="497" height="1170" frameX="-2" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0070" x="7473" y="1194" width="497" height="1170" frameX="-2" frameY="-45" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0071" x="0" y="2371" width="492" height="1179" frameX="-8" frameY="-36" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0072" x="497" y="2371" width="492" height="1179" frameX="-8" frameY="-36" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0073" x="994" y="2371" width="437" height="1215" frameX="-63" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0074" x="994" y="2371" width="437" height="1215" frameX="-63" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0075" x="1436" y="2371" width="428" height="1210" frameX="-72" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0076" x="1436" y="2371" width="428" height="1210" frameX="-72" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0077" x="1869" y="2371" width="430" height="1215" frameX="-70" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0078" x="1869" y="2371" width="430" height="1215" frameX="-70" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0079" x="2304" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0080" x="2304" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0081" x="2740" y="2371" width="431" height="1214" frameX="-69" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0082" x="2740" y="2371" width="431" height="1214" frameX="-69" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0083" x="3176" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0084" x="3176" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0085" x="3612" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0086" x="3612" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0087" x="4048" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0088" x="4048" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0089" x="4484" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0090" x="4484" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0091" x="4920" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0092" x="4920" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0093" x="2740" y="2371" width="431" height="1214" frameX="-69" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0094" x="2740" y="2371" width="431" height="1214" frameX="-69" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0095" x="3176" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0096" x="3176" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0097" x="3612" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0098" x="3612" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0099" x="4048" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0100" x="4048" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0101" x="4484" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0102" x="4484" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0103" x="4920" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0104" x="4920" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0105" x="2740" y="2371" width="431" height="1214" frameX="-69" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0106" x="2740" y="2371" width="431" height="1214" frameX="-69" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0107" x="3176" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0108" x="3176" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0109" x="3612" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0110" x="3612" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0111" x="4048" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0112" x="4048" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0113" x="4484" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0114" x="4484" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0115" x="4920" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0116" x="4920" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0117" x="2740" y="2371" width="431" height="1214" frameX="-69" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0118" x="2740" y="2371" width="431" height="1214" frameX="-69" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0119" x="3176" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0120" x="3176" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0121" x="3612" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0122" x="3612" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0123" x="4048" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0124" x="4048" y="2371" width="431" height="1210" frameX="-69" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0125" x="4484" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0126" x="4484" y="2371" width="431" height="1215" frameX="-69" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0127" x="4920" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0128" x="4920" y="2371" width="431" height="1211" frameX="-69" frameY="-4" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0129" x="5356" y="2371" width="432" height="1214" frameX="-68" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0130" x="5356" y="2371" width="432" height="1214" frameX="-68" frameY="-1" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0131" x="5793" y="2371" width="434" height="1210" frameX="-66" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0132" x="5793" y="2371" width="434" height="1210" frameX="-66" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0133" x="6232" y="2371" width="441" height="1215" frameX="-59" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0134" x="6232" y="2371" width="441" height="1215" frameX="-59" frameY="0" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0135" x="6678" y="2371" width="454" height="1210" frameX="-46" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0136" x="6678" y="2371" width="454" height="1210" frameX="-46" frameY="-5" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0137" x="7137" y="2371" width="455" height="1205" frameX="-45" frameY="-10" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0138" x="7137" y="2371" width="455" height="1205" frameX="-45" frameY="-10" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0139" x="7597" y="2371" width="471" height="1193" frameX="-29" frameY="-22" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0140" x="7597" y="2371" width="471" height="1193" frameX="-29" frameY="-22" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0141" x="0" y="3591" width="484" height="1168" frameX="-15" frameY="-47" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0142" x="0" y="3591" width="484" height="1168" frameX="-15" frameY="-47" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0143" x="489" y="3591" width="499" height="1187" frameX="0" frameY="-28" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0144" x="489" y="3591" width="499" height="1187" frameX="0" frameY="-28" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0145" x="993" y="3591" width="497" height="1189" frameX="-2" frameY="-26" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0146" x="993" y="3591" width="497" height="1189" frameX="-2" frameY="-26" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0147" x="1495" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0148" x="1998" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0149" x="2501" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0150" x="2501" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0151" x="3004" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0152" x="3004" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0153" x="3507" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0154" x="4010" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0155" x="4010" y="3591" width="498" height="1186" frameX="-1" frameY="-29" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0156" x="4513" y="3591" width="495" height="1185" frameX="-4" frameY="-30" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0157" x="5013" y="3591" width="495" height="1185" frameX="-4" frameY="-30" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0158" x="5513" y="3591" width="490" height="1179" frameX="-10" frameY="-36" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0159" x="5513" y="3591" width="490" height="1179" frameX="-10" frameY="-36" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0160" x="5513" y="3591" width="490" height="1179" frameX="-10" frameY="-36" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0161" x="6008" y="3591" width="469" height="1190" frameX="-31" frameY="-25" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0162" x="6008" y="3591" width="469" height="1190" frameX="-31" frameY="-25" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0163" x="6008" y="3591" width="469" height="1190" frameX="-31" frameY="-25" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0164" x="6482" y="3591" width="488" height="1192" frameX="-64" frameY="-23" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0165" x="6482" y="3591" width="488" height="1192" frameX="-64" frameY="-23" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0166" x="6975" y="3591" width="461" height="1183" frameX="-87" frameY="-32" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0167" x="6975" y="3591" width="461" height="1183" frameX="-87" frameY="-32" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0168" x="7441" y="3591" width="467" height="1183" frameX="-81" frameY="-32" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0169" x="0" y="4788" width="468" height="1181" frameX="-77" frameY="-34" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0170" x="473" y="4788" width="468" height="1181" frameX="-77" frameY="-34" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0171" x="946" y="4788" width="470" height="1185" frameX="-73" frameY="-30" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0172" x="946" y="4788" width="470" height="1185" frameX="-73" frameY="-30" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0173" x="1421" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0174" x="1421" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0175" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0176" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0177" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0178" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0179" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0180" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0181" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0182" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0183" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0184" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0185" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0186" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0187" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0188" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="goon laugh0189" x="1893" y="4788" width="467" height="1184" frameX="-75" frameY="-31" frameWidth="740" frameHeight="1215"/>
+	<SubTexture name="idle0000" x="2365" y="4788" width="457" height="1170" frameX="-44" frameY="-19" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0001" x="2365" y="4788" width="457" height="1170" frameX="-44" frameY="-19" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0002" x="2827" y="4788" width="459" height="1164" frameX="-38" frameY="-25" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0003" x="2827" y="4788" width="459" height="1164" frameX="-38" frameY="-25" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0004" x="3291" y="4788" width="468" height="1186" frameX="-17" frameY="-3" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0005" x="3291" y="4788" width="468" height="1186" frameX="-17" frameY="-3" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0006" x="3764" y="4788" width="484" height="1189" frameX="0" frameY="0" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0007" x="3764" y="4788" width="484" height="1189" frameX="0" frameY="0" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0008" x="4253" y="4788" width="478" height="1189" frameX="-6" frameY="0" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0009" x="4253" y="4788" width="478" height="1189" frameX="-6" frameY="0" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0010" x="4736" y="4788" width="475" height="1189" frameX="-9" frameY="0" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0011" x="4736" y="4788" width="475" height="1189" frameX="-9" frameY="0" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0012" x="4736" y="4788" width="475" height="1189" frameX="-9" frameY="0" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="idle0013" x="4736" y="4788" width="475" height="1189" frameX="-9" frameY="0" frameWidth="501" frameHeight="1189"/>
+	<SubTexture name="left0000" x="5216" y="4788" width="663" height="1140" frameX="0" frameY="-6" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0001" x="5216" y="4788" width="663" height="1140" frameX="0" frameY="-6" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0002" x="5884" y="4788" width="651" height="1140" frameX="-13" frameY="-6" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0003" x="5884" y="4788" width="651" height="1140" frameX="-13" frameY="-6" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0004" x="6540" y="4788" width="654" height="1144" frameX="-11" frameY="-2" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0005" x="6540" y="4788" width="654" height="1144" frameX="-11" frameY="-2" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0006" x="7199" y="4788" width="656" height="1146" frameX="-10" frameY="0" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0007" x="7199" y="4788" width="656" height="1146" frameX="-10" frameY="0" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0008" x="7199" y="4788" width="656" height="1146" frameX="-10" frameY="0" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0009" x="7199" y="4788" width="656" height="1146" frameX="-10" frameY="0" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0010" x="7199" y="4788" width="656" height="1146" frameX="-10" frameY="0" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0011" x="7199" y="4788" width="656" height="1146" frameX="-10" frameY="0" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0012" x="7199" y="4788" width="656" height="1146" frameX="-10" frameY="0" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="left0013" x="7199" y="4788" width="656" height="1146" frameX="-10" frameY="0" frameWidth="666" frameHeight="1146"/>
+	<SubTexture name="right0000" x="0" y="5982" width="739" height="1161" frameX="-6" frameY="-8" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0001" x="0" y="5982" width="739" height="1161" frameX="-6" frameY="-8" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0002" x="744" y="5982" width="721" height="1153" frameX="-3" frameY="-16" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0003" x="744" y="5982" width="721" height="1153" frameX="-3" frameY="-16" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0004" x="1470" y="5982" width="728" height="1168" frameX="0" frameY="-1" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0005" x="1470" y="5982" width="728" height="1168" frameX="0" frameY="-1" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0006" x="2203" y="5982" width="727" height="1169" frameX="0" frameY="0" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0007" x="2203" y="5982" width="727" height="1169" frameX="0" frameY="0" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0008" x="2935" y="5982" width="727" height="1169" frameX="0" frameY="0" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0009" x="2935" y="5982" width="727" height="1169" frameX="0" frameY="0" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0010" x="3667" y="5982" width="727" height="1169" frameX="0" frameY="0" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0011" x="3667" y="5982" width="727" height="1169" frameX="0" frameY="0" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0012" x="3667" y="5982" width="727" height="1169" frameX="0" frameY="0" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="right0013" x="3667" y="5982" width="727" height="1169" frameX="0" frameY="0" frameWidth="745" frameHeight="1169"/>
+	<SubTexture name="up0000" x="4399" y="5982" width="517" height="1216" frameX="-13" frameY="0" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0001" x="4399" y="5982" width="517" height="1216" frameX="-13" frameY="0" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0002" x="4921" y="5982" width="537" height="1216" frameX="0" frameY="0" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0003" x="4921" y="5982" width="537" height="1216" frameX="0" frameY="0" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0004" x="5463" y="5982" width="536" height="1201" frameX="-5" frameY="-15" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0005" x="5463" y="5982" width="536" height="1201" frameX="-5" frameY="-15" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0006" x="6004" y="5982" width="538" height="1197" frameX="-5" frameY="-19" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0007" x="6004" y="5982" width="538" height="1197" frameX="-5" frameY="-19" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0008" x="6547" y="5982" width="538" height="1197" frameX="-5" frameY="-19" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0009" x="6547" y="5982" width="538" height="1197" frameX="-5" frameY="-19" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0010" x="6547" y="5982" width="538" height="1197" frameX="-5" frameY="-19" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0011" x="6547" y="5982" width="538" height="1197" frameX="-5" frameY="-19" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0012" x="6547" y="5982" width="538" height="1197" frameX="-5" frameY="-19" frameWidth="543" frameHeight="1216"/>
+	<SubTexture name="up0013" x="6547" y="5982" width="538" height="1197" frameX="-5" frameY="-19" frameWidth="543" frameHeight="1216"/>
+</TextureAtlas>
