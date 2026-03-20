@@ -50,7 +50,7 @@ class TitleState extends MusicBeatState
 	var blackScreen:FlxSprite;
 	var credTextShit:FlxText; //poopy
 	//var credTextShit:Alphabet;
-	var swSpr:FlxSprite; //poopy
+	var btSpr:FlxSprite; //poopy
 
 	var titleTextColors:Array<FlxColor> = [0xFF33FFFF, 0xFF3333CC];
 	var titleTextAlphas:Array<Float> = [1, .64];
@@ -282,14 +282,14 @@ class TitleState extends MusicBeatState
 		credTextShit.screenCenter();
 		credTextShit.visible = false;
 
-		swSpr = new FlxSprite(0, FlxG.height * 0.36); //poopy
+		btSpr = new FlxSprite(0, FlxG.height * 0.36); //poopy
 
-		swSpr.loadGraphic(Paths.image('start/spumdwave_logo')); //poopies
-		swSpr.setGraphicSize(Std.int(swSpr.width * 0.45));
-		swSpr.updateHitbox();
-		swSpr.screenCenter(X);
-		swSpr.antialiasing = ClientPrefs.data.antialiasing;
-		swSpr.visible = false;
+		btSpr.loadGraphic(Paths.image('start/blockteam_logo')); //poopies
+		btSpr.setGraphicSize(Std.int(btSpr.width * 0.45));
+		btSpr.updateHitbox();
+		btSpr.screenCenter(X);
+		btSpr.antialiasing = ClientPrefs.data.antialiasing;
+		btSpr.visible = false;
 		
 		add(bg); //poopy
 		add(logoBl); //FNF Logo
@@ -297,7 +297,7 @@ class TitleState extends MusicBeatState
 		add(mei); //poopy
 		add(titleText); //"Press Enter to Begin" text
 		add(credGroup);
-		add(swSpr); //poopy
+		add(btSpr); //poopy
 
 		if (initialized)
 			skipIntro();
@@ -657,11 +657,11 @@ class TitleState extends MusicBeatState
 				case 6:
 					createCoolText([' Associated ', ' with '], -40);
 				case 8:
-					swSpr.visible = true; //poopies
-					FlxG.sound.play(Paths.sound('meow'));
+					btSpr.visible = true; //poopies
+					FlxG.sound.play(Paths.sound('rata_block'));
 				case 9:
 					deleteCoolText();
-					swSpr.visible = false; //poopy
+					btSpr.visible = false; //poopy
 				case 10:
 					createCoolText([curWacky[0]]);
 				case 12:
@@ -713,7 +713,7 @@ class TitleState extends MusicBeatState
 						sound = FlxG.sound.play(Paths.sound('JinglePessy'));
 
 					default: // Go back to normal ugly ass boring GF
-						remove(swSpr);
+						remove(btSpr);
 						remove(credGroup);
 						FlxG.camera.flash(FlxColor.WHITE, 2);
 						skippedIntro = true;
@@ -728,7 +728,7 @@ class TitleState extends MusicBeatState
 				{
 					new FlxTimer().start(3.2, function(tmr:FlxTimer)
 					{
-						remove(swSpr); //poopy
+						remove(btSpr); //poopy
 						remove(credGroup);
 						FlxG.camera.flash(FlxColor.WHITE, 0.6);
 						transitioning = false;
@@ -736,7 +736,7 @@ class TitleState extends MusicBeatState
 				}
 				else
 				{
-					remove(swSpr); //poopy
+					remove(btSpr); //poopy
 					remove(credGroup);
 					FlxG.camera.flash(FlxColor.WHITE, 3);
 					sound.onComplete = function()
@@ -752,7 +752,7 @@ class TitleState extends MusicBeatState
 			else
 			#end // Default! Edit this one!!
 			{
-				remove(swSpr); //poopy
+				remove(btSpr); //poopy
 				remove(credGroup);
 				FlxG.camera.flash(FlxColor.WHITE, 4);
 
