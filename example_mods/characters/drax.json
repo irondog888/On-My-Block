@@ -3,53 +3,53 @@
 		{
 			"offsets": [0, 0],
 			"loop": false,
-			"fps": 12,
+			"fps": 24,
 			"anim": "idle",
 			"indices": [],
 			"name": "idle"
 		},
 		{
+			"offsets": [22, 22],
 			"loop": false,
-			"offsets": [28, 2],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "down",
-			"indices": []
+			"indices": [],
+			"name": "down"
 		},
 		{
+			"offsets": [22, 110],
 			"loop": false,
-			"offsets": [16, 4],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 12,
-			"name": "up",
-			"indices": []
+			"indices": [],
+			"name": "up"
 		},
 		{
 			"loop": false,
-			"offsets": [20, 8],
+			"offsets": [52, 26],
 			"anim": "singLEFT",
-			"fps": 12,
+			"fps": 24,
 			"name": "right",
 			"indices": []
 		},
 		{
 			"loop": false,
-			"offsets": [2, -5],
+			"offsets": [4, 7],
 			"anim": "singRIGHT",
-			"fps": 12,
+			"fps": 24,
 			"name": "left",
 			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/rei_buck",
-	"position": [60, 350],
-	"healthicon": "rei",
+	"image": "characters/draxjeu",
+	"position": [-100, 0],
+	"healthicon": "cancel",
 	"flip_x": false,
-	"healthbar_colors": [84, 193, 252],
-	"camera_position": [-10, 20],
+	"healthbar_colors": [85, 92, 193],
+	"camera_position": [-200, 60],
 	"sing_duration": 4,
-	"scale": 0.8,
+	"scale": 1,
 	"_editor_isPlayer": false
 }

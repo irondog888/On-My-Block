@@ -54,10 +54,10 @@
 	"image": "characters/Mei_v4",
 	"position": [-30, -70],
 	"healthicon": "mei",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [191, 68, 86],
-	"camera_position": [122, 300],
+	"camera_position": [-338, 360],
 	"sing_duration": 4,
 	"scale": 0.8,
-	"_editor_isPlayer": false
+	"_editor_isPlayer": true
 }

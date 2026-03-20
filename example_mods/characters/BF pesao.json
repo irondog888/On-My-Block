@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "hey",
+			"fps": 12,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 1],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1, 2],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 4],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 1],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-3, 0],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [3, 5],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [3, 1],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1, 2],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "beat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [3, 4],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "beat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 1],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "beat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "beat left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bf",
+	"position": [-420, -110],
+	"healthicon": "mani",
+	"flip_x": true,
+	"healthbar_colors": [135, 195, 255],
+	"camera_position": [-470, 410],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": true
+}

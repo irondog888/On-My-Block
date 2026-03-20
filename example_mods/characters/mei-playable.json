@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-9, -7],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-16, -57],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-49, 28],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [79, 46],
+			"anim": "hey",
+			"fps": 12,
+			"name": "Hey",
+			"indices": [0, 1, 1, 1, 1, 1, 1]
+		},
+		{
+			"offsets": [136, -40],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [-73, -2],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Mei_v4",
+	"position": [0, -80],
+	"healthicon": "mei",
+	"flip_x": false,
+	"healthbar_colors": [191, 68, 86],
+	"camera_position": [32, 120],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

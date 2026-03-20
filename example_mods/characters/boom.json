@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [247, 521],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "booom!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [37, -3617],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "booom!",
+			"indices": []
+		},
+		{
+			"offsets": [247, -258],
+			"indices": [50],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "booom!00"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/boom",
+	"position": [0, 350],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
