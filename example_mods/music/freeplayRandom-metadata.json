@@ -1,0 +1,9 @@
+{
+  "timeFormat": "ms",
+  "artist": "Microsoft idk",
+  "songName": "Original Xbox Dashboard Sound Effects",
+  "timeChanges": [{ "d": 4, "n": 4, "t": 0, "bt": [4, 4, 4, 4], "bpm": 145 }],
+  "generatedBy": "Manual (by Binmead)",
+  "looped": true,
+  "version": "1.0.0"
+}
