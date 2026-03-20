@@ -1,0 +1,6 @@
+turn middlescroll on/off
+if the middlescroll option in settings is
+selected then this event will do nothing
+
+value 1: duration (in steps)
+value 2: ease name

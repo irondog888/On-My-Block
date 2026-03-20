@@ -1,0 +1,8 @@
+example: mode=tween,tag=bruh,obj=gf,time=16,lua=false,
+RM=0,GM=0,BL=0,R=255,G=0,B=0,ease=expoOut,bg=true,bgR=0,
+bgG=255,bgB=0,alpha=0.8,bgAlpha=0.5
+
+List of default values:
+mode=set,tag=tweenTimer,lua=false,obj=all,
+RM=1,GM=1,BM=1,R=1,G=1,B=1,time=16,ease=linear,
+bg=true,bgR=0,bgG=0,bgB=0,alpha=1,bgAlpha=1

@@ -1,0 +1,4 @@
+value 1 = zoom
+value 2 = character(optional)
+NOTE: if the value 2 has a character, the camera will zoom 
+accordingly with the value 1 when the camera focuses on it.

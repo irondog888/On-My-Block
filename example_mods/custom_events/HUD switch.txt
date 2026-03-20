@@ -1,0 +1,2 @@
+value 1 = time in seconds
+value 2 = on/off

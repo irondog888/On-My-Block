@@ -1,0 +1,6 @@
+Switches the side of the player's healthbar and which side
+the notes are on
+Value 1: Choose whether you want the healthbar to be flipped
+or not (True to enable, False to disable)
+Value 2: Choose whether you want the notes' sides to be flipped
+or not (True to enable, False to disable)

@@ -1,0 +1,11 @@
+Enables/Disables middlescroll mid-song.
+Disabling while it's already disabled does nothing.
+List of on/off variables in the lua file.
+
+Value 1: Enables/Disables Middlescroll 
+(On=Enable, Off=Disable)
+Leave blank for auto toggling
+
+Value 2: Changes the Speed of the Transition
+(Anything above 0 is fine)
+Leave blank = 1 second

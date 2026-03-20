@@ -1,0 +1,4 @@
+Rain Spawns. Event by Taki. :>
+
+value1 = Leave blank. >:(
+value2 = Rain fade in time (if you don't want a fade in, just put 0.1 or some shite. Idk.)
