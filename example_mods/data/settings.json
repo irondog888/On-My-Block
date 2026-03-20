@@ -1,0 +1,11 @@
+[
+	{
+		"save": "transgraphics",
+		"name": "Graphics Language",
+		"type": "string",
+		"options": ["Default", "Español (México)"],
+		"description": "Changes the language of graphics in-game.",
+		"value": "Default",
+		"translation_key": "spanishlangmod_transgraphics",
+	},
+]

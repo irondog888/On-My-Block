@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "meitalk",
+			"speed": 0.045,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listo haz terminado la madness week"
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.045,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ve al Freeplay para mas placer"
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.045,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "De momento Autopsy no esta acabada asi que no la jueges"
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.045,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nos vemos"
+		}
+	]
+}

@@ -1,8 +1,8 @@
 {
-	"songRating": 6,
-	"freeplayPrevStart": 21,
-	"freeplayPrevEnd": 48,
+	"songRating": 0,
+	"freeplayPrevStart": 0,
+	"freeplayPrevEnd": 26.22,
 	"freeplaySongLength": 131.078,
 	"freeplayCharacter": "",
-	"albumId": "bonus_album"
+	"albumId": ""
 }

@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hola a todos, sean bienvenidos a este concierto. Sé que en su mayoría querían verme a mí.",
+			"boxState": "normal",
+			"portrait": "mei",
+			"speed": 0.05,
+			"sound": "meitalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Pero esta vez tengo de invitados a mis amigos y seres queridos.",
+			"boxState": "normal",
+			"portrait": "mei",
+			"speed": 0.05,
+			"sound": "meitalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Oye Mei, me están reportando que un chico de pelo azul quiere subir, dice que quiere hablar contigo.",
+			"boxState": "normal",
+			"portrait": "ax",
+			"speed": 0.05,
+			"sound": "axtalk"
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Díganle que no esté chingando"
+		},
+		{
+			"sound": "axtalk",
+			"speed": 0.05,
+			"portrait": "ax",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mei, no seas tan grosera."
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bueno, ya equis, súbelo."
+		},
+		{
+			"sound": "bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop."
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Y este rarito qué o qué?"
+		},
+		{
+			"sound": "axtalk",
+			"speed": 0.05,
+			"portrait": "ax",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " Ni idea, pero trae un micrófono y dicen por ahí que canta bien."
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bueno, qué más da. Ey tú, enano, ¿quieres cantar?"
+		},
+		{
+			"sound": "bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sí, a webo."
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "¿NO QUE NO HABLABAS?"
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bueno Ax, te encargo el resto. Tengo que esperar a que llegue Niko. Si no llega, dile a Katya que te cubra."
+		},
+		{
+			"sound": "axtalk",
+			"speed": 0.05,
+			"portrait": "ax",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pero Mei, tú fuiste la que le dijo que si quería cantar."
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Adiós, mi amor. Vengo más tarde."
+		},
+		{
+			"sound": "axtalk",
+			"speed": 0.05,
+			"portrait": "ax",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bueno ya qué… hey enano, ¿cantemos o qué?"
+		},
+		{
+			"sound": "bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep."
+		}
+	]
+}

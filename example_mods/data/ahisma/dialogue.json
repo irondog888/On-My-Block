@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "meitalk",
+			"speed": 0.045,
+			"portrait": "mei",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "¿EN DÓNDE ESTABAS?"
+		},
+		{
+			"sound": "nikotalk",
+			"speed": 0.05,
+			"portrait": "niko",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Keloke, estaba ocupado."
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Apúrate a cerrar esto porque solamente faltas tú."
+		},
+		{
+			"sound": "nikotalk",
+			"speed": 0.05,
+			"portrait": "niko",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bueno, bueno, ya no te enojes."
+		},
+		{
+			"sound": "kattalk",
+			"speed": 0.05,
+			"portrait": "gf kat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hola tontito, suerte en tu turno. Te toca superarme."
+		},
+		{
+			"sound": "nikotalk",
+			"speed": 0.05,
+			"portrait": "niko",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Dejaron la vara muy alta o qué?"
+		}
+	]
+}

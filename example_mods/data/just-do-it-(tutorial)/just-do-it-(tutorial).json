@@ -1,0 +1,284 @@
+{
+	"player1": "mei-playable",
+	"gfVersion": "gf",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[8400, 4, 0],
+				[9450, 7, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[10500, 4, 0],
+				[11550, 7, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[12525, 0, 0],
+				[13575, 3, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[14615.625, 0, 0],
+				[15650, 3, 0],
+				[16200, 0, 0],
+				[16700, 2, 300]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[16800, 6, 0],
+				[17800, 5, 0],
+				[18825, 6, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[19862.5, 5, 0],
+				[20925, 2, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[21900, 1, 0],
+				[22950, 2, 0],
+				[23475, 3, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[24000, 0, 0],
+				[24600, 3, 0],
+				[25050, 4, 0],
+				[26100, 7, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[27150, 6, 0],
+				[28200, 5, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[29250, 0, 0],
+				[30000, 3, 0],
+				[30150, 3, 0],
+				[30300, 2, 375],
+				[30975, 1, 0],
+				[31125, 0, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[31300, 3, 375],
+				[31950, 0, 0],
+				[32200, 0, 0],
+				[32350, 3, 600],
+				[33450, 5, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[33900, 5, 0],
+				[34425, 6, 0],
+				[35475, 5, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[36000, 5, 0],
+				[36525, 7, 0],
+				[37550, 1, 0],
+				[38000, 1, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[38400, 1, 0],
+				[38700, 2, 0],
+				[39250, 1, 0],
+				[39550, 1, 0],
+				[39750, 3, 0],
+				[40050, 3, 0],
+				[40450, 3, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[40800, 0, 0],
+				[41362.5, 1, 0],
+				[41512.5, 0, 0],
+				[41625, 2, 0],
+				[41850, 5, 0],
+				[42075, 6, 0],
+				[42300, 4, 0],
+				[42600, 6, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[43275, 7, 0],
+				[43837.5, 1, 0],
+				[44175, 2, 0],
+				[44400, 0, 0],
+				[44662.5, 2, 0],
+				[45412.5, 3, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[45675, 3, 225],
+				[45975, 0, 0],
+				[46312.5, 0, 0],
+				[46462.5, 1, 0],
+				[46837.5, 1, 150],
+				[47062.5, 3, 375],
+				[47512.5, 0, 0],
+				[47775, 0, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[48000, 3, 225],
+				[48400, 3, 0],
+				[48550, 1, 0],
+				[48850, 2, 0],
+				[49087.5, 1, 0],
+				[49312.5, 1, 0],
+				[49575, 1, 0],
+				[49837.5, 3, 0],
+				[50100, 2, 450]
+			],
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 100,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 100,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 100,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 100,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 100,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 100,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 100,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		}
+	],
+	"events": [],
+	"player2": "ax tuto",
+	"offset": 0,
+	"charter": "Binmead D",
+	"song": "Just Do It (Tutorial)",
+	"needsVoices": true,
+	"generatedBy": "Psych Engine v1.0 - Chart Editor V-Slice Importer",
+	"stage": "day",
+	"bpm": 100,
+	"format": "psych_v1_convert",
+	"speed": 2.5,
+	"artist": "Gafo Met"
+}

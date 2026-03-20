@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ush, este cabrón no llega. Me va a tocar cantar entonces.",
+			"boxState": "angry",
+			"portrait": "Mei",
+			"speed": 0.05,
+			"sound": "meitalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Ya llegará, tú estate tranquila.",
+			"boxState": "normal",
+			"portrait": "ax",
+			"speed": 0.05,
+			"sound": "axtalk"
+		},
+		{
+			"sound": "kattalk",
+			"speed": 0.05,
+			"portrait": "gf kat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ya le llamé, dice que está por llegar. Ya Mei, no te preocupes."
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "De acuerdo, esto es lo que me toca por pensar que una vez en su vida llegaría temprano."
+		},
+		{
+			"sound": "bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep"
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.05,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Si, ya voy"
+		}
+	]
+}

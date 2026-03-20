@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "meitalk",
+			"speed": 0.045,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eso es todo"
+		},
+		{
+			"sound": "meitalk",
+			"speed": 0.045,
+			"portrait": "mei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Esperen a la v1 por katya :)"
+		}
+	]
+}

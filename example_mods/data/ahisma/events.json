@@ -1,0 +1,592 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["karaokelyrics", "set", "Do the D-A-N-C-E"]
+			]
+		],
+		[
+			2123.89380530973,
+			[
+				["karaokelyrics", "set", "1, 2, 3, 4, fight!"]
+			]
+		],
+		[
+			4247.78761061947,
+			[
+				["karaokelyrics", "set", "Stick to the D-A-N-C-E"]
+			]
+		],
+		[
+			6371.6814159292,
+			[
+				["karaokelyrics", "set", "Get ready to ignite"]
+			]
+		],
+		[
+			8495.57522123894,
+			[
+				["karaokelyrics", "set", "Do the D-A-N-C-E"]
+			]
+		],
+		[
+			10619.4690265487,
+			[
+				["karaokelyrics", "set", "1, 2, 3, 4, fight!"]
+			]
+		],
+		[
+			12743.3628318584,
+			[
+				["karaokelyrics", "set", "Stick to the D-A-N-C-E"]
+			]
+		],
+		[
+			14867.2566371681,
+			[
+				["Set Cam Zoom", "0.7", ""],
+				["karaokelyrics", "set", ""],
+				["Set Cam Zoom", "0.7", ""]
+			]
+		],
+		[
+			16327.4336283186,
+			[
+				["Set Camera Bop", "1", "1"]
+			]
+		],
+		[
+			16592.9203539823,
+			[
+				["Set Camera Bop", "4", "1"],
+				["Hey!", "FFFFFF", "0.5"],
+				["Set Camera Bop", "4", "1"]
+			]
+		],
+		[
+			16725.6637168142,
+			[
+				["Camera Set Target", "D", ""]
+			]
+		],
+		[
+			16991.1504424779,
+			[
+				["Set Cam Zoom", "0.53", ""],
+				["Camera Flash", "FFFFFF", "0.5"]
+			]
+		],
+		[
+			84159.2920353983,
+			[
+				["karaokelyrics", "set", "Turn Down For"]
+			]
+		],
+		[
+			84823.0088495576,
+			[
+				["karaokelyrics", "sung", "oh"]
+			]
+		],
+		[
+			84955.7522123894,
+			[
+				["Set Camera Bop", "1", "4"],
+				["karaokelyrics", "set", ""]
+			]
+		],
+		[
+			99823.0088495576,
+			[
+				["Set Camera Bop", "4", "1"]
+			]
+		],
+		[
+			101946.902654867,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			116814.159292035,
+			[
+				["Set Camera Bop", "4", "1"]
+			]
+		],
+		[
+			117876.10619469,
+			[
+				["Set Cam Zoom", "0.8", ""]
+			]
+		],
+		[
+			118141.592920354,
+			[
+				["Philly Glow Recreation", "1", "1"]
+			]
+		],
+		[
+			118340.707964602,
+			[
+				["Middlescroll", "Off", ""]
+			]
+		],
+		[
+			118407.079646018,
+			[
+				["Cinematics (With HUD)", "2", "60"]
+			]
+		],
+		[
+			118539.82300885,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			118672.566371682,
+			[
+				["karaokelyrics", "", "Baby, sabes muchas cosas que yo no quiero decir"]
+			]
+		],
+		[
+			118938.053097345,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			121061.946902655,
+			[
+				["karaokelyrics", "", "Fotos de tu cara no me paran de salir"]
+			]
+		],
+		[
+			121067.477876106,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			122920.353982301,
+			[
+				["karaokelyrics", "", "He tomado tantas cosas y ahora no puedo dormir"]
+			]
+		],
+		[
+			123185.840707965,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			125176.991150443,
+			[
+				["karaokelyrics", "", "Pensando en esa mierda que la quiero repetir"]
+			]
+		],
+		[
+			125309.734513274,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			126902.654867257,
+			[
+				["karaokelyrics", "", ""]
+			]
+		],
+		[
+			127168.14159292,
+			[
+				["karaokelyrics", "set", "Carnal"]
+			]
+		],
+		[
+			127699.115044248,
+			[
+				["karaokelyrics", "set", "Carnal, si yo tengo a mi chamán que me protege del mal"]
+			]
+		],
+		[
+			129557.522123894,
+			[
+				["karaokelyrics", "set", "De la envidia y de la vibra que me tiran los demás"]
+			]
+		],
+		[
+			131946.902654867,
+			[
+				["karaokelyrics", "set", "Al ganar vas a notar que te sobran enemigos"]
+			]
+		],
+		[
+			134203.539823009,
+			[
+				["karaokelyrics", "set", "Que te quieren ver jodido sin ni haberte conocido"]
+			]
+		],
+		[
+			135398.230088496,
+			[
+				["karaokelyrics", "Sung", "Que te quieren ver jodido sin ni haberte conocido"]
+			]
+		],
+		[
+			135663.716814159,
+			[
+				["karaokelyrics", "set", "Gema rosa en la bebida para olvidarme de ti\r\n"]
+			]
+		],
+		[
+			135934.734513274,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			138058.628318584,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			139646.017699115,
+			[
+				["karaokelyrics", "set", "Ropa cara en la cocina porque yo no sé fingir"]
+			]
+		],
+		[
+			140182.522123894,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			142306.415929204,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			143827.433628319,
+			[
+				["karaokelyrics", "set", "Si llama la policía, baby, yo no puedo ir"]
+			]
+		],
+		[
+			144424.778761062,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			144430.309734513,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			144955.752212389,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			145486.725663717,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			146017.699115044,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			146548.672566372,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			146554.203539823,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			147079.646017699,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			147610.619469027,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			148141.592920354,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			148185.840707965,
+			[
+				["karaokelyrics", "set", "Ya te dije lo que había, que la vida me hizo así"]
+			]
+		],
+		[
+			148672.566371681,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			148678.097345133,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			149203.539823009,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			149734.513274336,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			150265.486725664,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			150796.460176991,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			150801.991150442,
+			[
+				["Camera Set Target", "G", ""]
+			]
+		],
+		[
+			151327.433628319,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			151526.548672566,
+			[
+				["Set Cam Zoom", "1", ""]
+			]
+		],
+		[
+			151858.407079646,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			151924.778761062,
+			[
+				["Set Cam Zoom", "1.3", ""]
+			]
+		],
+		[
+			152389.380530973,
+			[
+				["Set Camera Bop", "1", "4"]
+			]
+		],
+		[
+			152610.619469027,
+			[
+				["karaokelyrics", "set", "Ya te dije lo que había, que la vida me hizo así"]
+			]
+		],
+		[
+			152654.867256637,
+			[
+				["Set Cam Zoom", "1", ""]
+			]
+		],
+		[
+			152920.353982301,
+			[
+				["Set Camera Bop", "4", "1"]
+			]
+		],
+		[
+			152953.539823009,
+			[
+				["karaokelyrics", "set", "En corto, en caliente les tumbamos gente"]
+			]
+		],
+		[
+			154911.504424779,
+			[
+				["karaokelyrics", "set", "No pueden dar frente, lo que traigo es potente"]
+			]
+		],
+		[
+			157168.14159292,
+			[
+				["karaokelyrics", "set", "Si es decadente, su estilo insuficiente"]
+			]
+		],
+		[
+			159159.292035398,
+			[
+				["karaokelyrics", "set", "Soy como Kalimán, veo sus planes en mi mente"]
+			]
+		],
+		[
+			161415.92920354,
+			[
+				["Set Cam Zoom", "1.2", ""],
+				["karaokelyrics", "set", "Loco, si con poco les hago un desmadre"]
+			]
+		],
+		[
+			161681.415929203,
+			[
+				["Set Cam Zoom", "1.5", ""]
+			]
+		],
+		[
+			162079.646017699,
+			[
+				["Set Cam Zoom", "1", ""]
+			]
+		],
+		[
+			164269.911504425,
+			[
+				["karaokelyrics", "set", "Ya bien foco no hay como pararme"]
+			]
+		],
+		[
+			166393.805309734,
+			[
+				["karaokelyrics", "set", "Traigo el súper poder activa'o y no creo que puedan"]
+			]
+		],
+		[
+			169845.132743363,
+			[
+				["karaokelyrics", "set", "Pesa'o"]
+			]
+		],
+		[
+			170176.991150442,
+			[
+				["Philly Glow Recreation", "0", "0"]
+			]
+		],
+		[
+			170575.221238938,
+			[
+				["karaokelyrics", "set", ""]
+			]
+		],
+		[
+			180530.973451327,
+			[
+				["Set Cam Zoom", "0.54", ""],
+				["Flash Black", "1", ""]
+			]
+		],
+		[
+			182123.89380531,
+			[
+				["Middlescroll", "On", ""]
+			]
+		],
+		[
+			218761.061946902,
+			[
+				["Set Cam Zoom", "0.6", "bf"]
+			]
+		],
+		[
+			219026.548672566,
+			[
+				["Set Cam Zoom", "0.7", "bf"]
+			]
+		],
+		[
+			219292.03539823,
+			[
+				["Set Cam Zoom", "0.53", "bf"]
+			]
+		],
+		[
+			219557.522123893,
+			[
+				["Set Cam Zoom", "0.55", "bf"]
+			]
+		],
+		[
+			219823.008849557,
+			[
+				["Set Cam Zoom", "0.6", "bf"]
+			]
+		],
+		[
+			220088.495575221,
+			[
+				["Set Cam Zoom", "0.7", "bf"]
+			]
+		],
+		[
+			220353.982300885,
+			[
+				["Set Cam Zoom", "0.6", "bf"]
+			]
+		],
+		[
+			220619.469026548,
+			[
+				["Set Cam Zoom", "0.5", "bf"]
+			]
+		],
+		[
+			220884.955752212,
+			[
+				["Set Cam Zoom", "0.53", "bf"]
+			]
+		],
+		[
+			253141.592920353,
+			[
+				["karaokelyrics", "set", "That's how long I've been on ya"]
+			]
+		],
+		[
+			254867.256637168,
+			[
+				["karaokelyrics", "set", ""],
+				["Cinematics (With HUD)", "1", "0"],
+				["Flash Black", "1", "0"],
+				["Fade UI", "1", "1"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

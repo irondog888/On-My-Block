@@ -1,0 +1,277 @@
+Español (OMB) 
+// Creditos a los del mod en español original
+//Traduccion de broma para On My Block
+// Gameplay
+score_text: "Puntos: {1} | Errores: {2} | Precisión: {3}"
+score_text_instakill: "Puntos: {1} | Precisión: {2}"
+botplay: "OMB DEMO"
+
+rating_you_suck: "Inútil!"
+rating_shit: "Malisimo"
+rating_bad: "Malo"
+rating_bruh: "Malo"
+rating_meh: "Eh"
+rating_nice: "Eh"
+rating_good: "Bien"
+rating_great: "Genial"
+rating_sick: "Perrón!"
+rating_perfect: "Perfecto!!"
+
+// Dialogues
+dialogue_skip: "Pulsa BACK para saltar"
+
+// Pause Menu
+pause_resume: "Reanudar"
+pause_restart_song: "Reiniciar"
+pause_leave_charting_mode: "Salir de modo Charter"
+pause_skip_time: "Saltar el Tiempo"
+pause_end_song: "Terminar Canción"
+pause_change_difficulty: "Cambiar Dificultad"
+pause_toggle_practice_mode: "Alternar Modo Práctica"
+pause_toggle_botplay: "Alternar Modo Automático"
+pause_options: "Opciones"
+pause_exit_to_menu: "Regresar al Menu"
+pause_back: "Regresar"
+practice_mode: "Práctica"
+charting_mode: "Modo Charter"
+blueballed: "Bolitas tristes: {1}"
+
+// Main Menu
+images/mainmenu/menu_story_mode: "images/es-MX/mainmenu/menu_story_mode"
+images/mainmenu/menu_freeplay: "images/es-MX/mainmenu/menu_freeplay"
+images/mainmenu/menu_credits: "images/es-MX/mainmenu/menu_credits"
+
+// Story Mode
+images/Menu_Tracks: "images/es-MX/ui/tracks"
+week_score: "PEJECOINS: {1}"
+
+storyname_week5: "NIEVE ESCARLATA"
+storyname_week6: "SIMULADOR QUE CITAS FT: MOAWLING"
+storyname_weekend1: "Deudas A Pagar"
+
+// Freeplay
+personal_best: "MEJOR PUNTUACIÓN: {1} ({2}%)"
+freeplay_tip: "Pulsa SPACE para escuchar canción / Pulsa CTRL para abrir el menú de Modificadores de Juego / Pulsa RESET para borrar tu puntuación."
+
+musicplayer_playing: "CANCIÓN: {1}"
+musicplayer_paused: "CANCIÓN: {1} (PAUSADA)"
+musicplayer_tip: "Pulsa SPACE para pausar / Pulsa ESC para salir / Pulsa R para reiniciar la canción"
+
+// Mods Menu
+no_mods_installed: "NO HAY NINGÚN MOD INSTALADO\nPRESIONA BACK PARA SALIR E INSTALA UN MOD"
+no_mods_found: "Ningun Mod encontrado."
+mod_restart: "* Mover o activar el Mod reiniciará el juego."
+reload_button: "RECARGAR"
+enable_all_button: "ACTIVAR TODOS"
+disable_all_button: "DESACTIVAR TODOS"
+
+// Reset Score/Achievement
+reset_score: "Borrar Puntuación de"
+reset_achievement: "Borrar Logro:"
+yes: "Si"
+no: "No"
+
+// Achievements
+achievement_friday_night_play: "Getin Friki" //no se como traducir esto :p
+description_friday_night_play: "Juega en un Viernes por la noche."
+achievement_week1_nomiss: "Ella También Me Llama Papi"
+description_week1_nomiss: "Completa Week 1 en Modo Difícil sin fallar."
+achievement_week2_nomiss: "No Mas Travesuras"
+description_week2_nomiss: "Completa Week 2 en Modo Difícil sin fallar."
+achievement_week3_nomiss: "Asaltado"
+description_week3_nomiss: "Completa Week 3 en Modo Difícil sin fallar."
+achievement_week4_nomiss: "Espantasuegras"
+description_week4_nomiss: "Completa Week 4 en Modo Difícil sin fallar."
+achievement_week5_nomiss: "Navidad Regalada"
+description_week5_nomiss: "Completa Week 5 en Modo Difícil sin fallar."
+achievement_week6_nomiss: "Nuevo Record!!"
+description_week6_nomiss: "Completa Week 6 en Modo Difícil sin fallar."
+achievement_week7_nomiss: "Maldita Sea!"
+description_week7_nomiss: "Completa Week 7 en Modo Difícil sin fallar."
+achievement_ur_bad: "Que Mamada"
+description_ur_bad: "Completa una canción con una precisión menor de 20%."
+achievement_ur_good: "Perfeccionista"
+description_ur_good: "Completa una canción con una precisión de 100%"
+achievement_roadkill_enthusiast: "Testigo"
+description_roadkill_enthusiast: "Presencia a los Bailadores de Respaldo morir 50 veces."
+achievement_oversinging: "Afonía"
+description_oversinging: "Sigue cantando por 10 segundos o más."
+achievement_hype: "TDAH"
+description_hype: "Completa una canción sin pararte."
+achievement_two_keys: "Por El Amor De Dos!" //pvz
+description_two_keys: "Completa una canción presionando solo dos teclas."
+achievement_toastie: "Tostadora"
+description_toastie: "Tratando de jugar en una tostadora?"
+achievement_debugger: "Modo Debug"
+description_debugger: "Completa la canción "Test" mediante el Chart Editor."
+
+// Options
+options_note_colors: "Colores de notas"
+options_controls: "Controles"
+options_adjust_delay_and_combo: "Ajustar Retraso y Combo"
+options_gameplay: "geiplei"
+options_visuals: "Visuales"
+options_graphics: "Gráficos"
+options_language: "Idioma"
+
+graphics_menu: "Configuración de Gráficos"
+visuals_menu: "Opciones Visuales"
+gameplay_menu: "Configuración de Gameplay"
+
+// Note Colors Menu
+note_colors_tip: "Pulsa RESET para resetear la parte de la nota seleccionada."
+note_colors_hold_tip: "Sostén {1} y pulsa RESET para resetear por completo la nota seleccionada."
+note_colors_shift: "Shift"
+note_colors_lb: "Bumper Izquierdo"
+
+// Adjust Delay and Combo Menu
+delay_beat_hit: "Golpe!"
+delay_current_offset: "Retraso: {1} ms";
+combo_rating_offset: "Posición de Calificaciones:"
+combo_numbers_offset: "Posición de Números:"
+combo_offset: "Posición de Combo";
+note_delay: "Retraso de Notas";
+switch_on_accept: "(Pulsa ACCEPT para cambiar)"
+switch_on_start: "(Pulsa START para cambiar)"
+
+// Controls Menu
+keygroup_notes: "NOTAS"
+keygroup_ui: "MENÚS"
+keygroup_volume: "VOLÚMEN"
+keygroup_debug: "DEBUG"
+
+key_note_left: "Izq."
+key_note_down: "Abajo"
+key_note_up: "Arriba"
+key_note_right: "Der."
+key_ui_left: "Izq."
+key_ui_down: "Abajo"
+key_ui_up: "Arriba"
+key_ui_right: "Der."
+key_reset: "Reset"
+key_accept: "Accept"
+key_back: "Back"
+key_pause: "Pausa"
+key_volume_mute: "Mutear"
+key_volume_up: "Subir"
+key_volume_down: "Bajar"
+key_debug_1: "Tecla 1"
+key_debug_2: "Tecla 2"
+
+controls_rebinding: "Cambiando tecla {1}"
+controls_rebinding2: "Sostén ESC para cancelar\ny Retroceso para borrar"
+reset_to_default_keys: "Volver a Por Defecto"
+
+// Gameplay Changers
+setting_scroll_type: "Tipo de Scroll"
+setting_scroll_type-multiplicative: "Multiplicativo"
+setting_scroll_type-constant: "Constante"
+setting_scroll_speed: "Velocidad de Scroll"
+setting_playback_rate: "Velocidad de Canción"
+setting_health_gain_multiplier: "Mult. de Aumento de Salud"
+setting_health_loss_multiplier: "Mult. de Perdida de Salud"
+setting_instakill_on_miss: "Morir al Fallar"
+setting_practice_mode: "Modo Práctica"
+setting_botplay: "Modo demostracion"
+
+// Graphics Settings
+setting_low_quality: "Modo tostadora"
+description_low_quality: "Calidad 4k mai broo."
+setting_anti-aliasing: "Anti-Aliasing"
+description_anti-aliasing: "Si se desactiva, desactiva el anti-aliasing, mejorando rendimiento al costo de gráficos menos "suaves"."
+setting_shaders: "Shaders"
+description_shaders: "Si se desactiva, desactiva los Shaders.\nSe utilizan para efectos visuales, y también son intensivas en CPU para PCs pésimas."
+setting_gpu_caching: "Caching en GPU"
+description_gpu_caching: "Si se activa, permite almacenar texturas en el GPU, reduciendo el uso de memoria RAM.\nNo actives esta opción si tu Tarjeta Gráfica es miserable."
+setting_framerate: "efepeese"
+description_framerate: "Cambia el límite de FPS (fotogramas por segundo)"
+
+// Visuals Settings
+setting_note_skins: "Estilo de Notas"
+setting_note_skins-default: "Por defect"
+setting_note_skins-future: "Futuristas"
+setting_note_skins-chip: "Bolas (redondo)"
+description_note_skins: "Escoge tu estilo de Notas favorito."
+setting_note_splashes: "Estilo de Impactos"
+setting_note_splashes-psych: "Psych(por defecto)"
+setting_note_splashes-diamond: "Diamantes"
+setting_note_splashes-electric: "Eléctricidad"
+setting_note_splashes-sparkles: "Destellos"
+setting_note_splashes-vanilla: "Original"
+description_note_splashes: "Escoge tu estilo de Impacto de Notas favorito."
+setting_note_splash_opacity: "Opacidad de Impactos"
+description_note_splash_opacity: "Qué tan transparente los Impactos de Notas serán."
+setting_hide_hud: "Esconder HUD"
+description_hide_hud: "Si se activa, la mayoria de elementos de interfaz se esconderán."
+setting_time_bar: "Barra de Tiempo:"
+setting_time_bar-time_left: "Tiempo Restante"
+setting_time_bar-time_elapsed: "Tiempo Pasado"
+setting_time_bar-song_name: "Nombre de Canción"
+setting_time_bar-disabled: "Desactivada"
+description_time_bar: "Lo que se mostrará en la Barra de Tiempo."
+setting_flashing_lights: "Luces Intermitentes"
+description_flashing_lights: "Kanye referencia jasjasja sirve si eres foto sensible"
+setting_camera_zooms: "Latidos de Cámara"
+description_camera_zooms: "Si se desactiva, la cámara no latirá al ritmo de la música."
+setting_score_text_grow_on_hit: "Latir Puntuación al Acertar"
+description_score_text_grow_on_hit: "Si se desactiva, el texto de puntuación no latirá al acertar una nota."
+setting_health_bar_opacity: "Opacidad de Barra de Salud"
+description_health_bar_opacity: "Cambia la transparencia de la Barra de Salud y los Íconos."
+setting_fps_counter: "Contador de efepeese"
+description_fps_counter: "Si se desactiva, esconde el contador de FPS."
+setting_pause_music: "Rola de Descanso:"
+setting_pause_music-none: "sin rolas"
+description_pause_music: "La música que sonará mientras el juego se encuentra en pausa."
+setting_check_for_updates: "Buscar Actualizaciones"
+description_check_for_updates: "En versiones oficiales de Psych Engine, activa esta opción para\navisar sobre actualizaciones al iniciar el juego."
+setting_discord_rich_presence: "Discord Rich Presence"
+description_discord_rich_presence: "Muestra el Estado de Actividad en Discord mientras juegas.\nDesactiva esta opcion si quieres evitar filtraciones accidentales."
+setting_combo_stacking: "Apilación de Combo"
+description_combo_stacking: "Si se desactiva, las Calificaciones y Combo no se apilarán, siendo más faciles de leer y ahorrando en memoria."
+
+setting_spanishlangmod_transgraphics: "Idioma de Gráficos"
+setting_spanishlangmod_transgraphics-default: "Por Defecto"
+description_spanishlangmod_transgraphics: "Cambia el idioma de los gráficos en el juego."
+setting_spanishlangmod_transaudio: "Traducir Audio"
+setting_spanishlangmod_transaudio-default: "Por Defecto"
+description_spanishlangmod_transaudio: "Cambia el idioma de los sonidos en el juego."
+
+// Gameplay Settings
+setting_downscroll: "Notas pa abajo"
+description_downscroll: "Si se activa, las notas caerán en vez de subir."
+setting_middlescroll: "Centradas"
+description_middlescroll: "Si se activa, tus notas estarán centradas."
+setting_opponent_notes: "Notas de Rival"
+description_opponent_notes: "Se se desactiva, esconde las notas del personaje rival."
+setting_ghost_tapping: "Modo gei"
+description_ghost_tapping: "Si se activa, teclear cuando no hay notas no se contará como un error."
+setting_auto_pause: "Pausar Automaticamente"
+description_auto_pause: "Si se activa, el juego se pausará automaticamente al desenfocarse."
+setting_disable_reset_button: "Desactivar Boton de Reset"
+description_disable_reset_button: "Se marcado, pulsar RESET no te matará."
+setting_hitsound_volume: "Volumen de Hitsound"
+description_hitsound_volume: "Osea asi como en el osu."
+setting_rating_offset: "Compensación de Aciertos"
+description_rating_offset: "Adelanta/retrasa el tiempo de acierto. Un valor mayor retrasará el tiempo en que tienes que acertar."
+setting_sick_hit_window: "Ventana. Oportunidad "Sick!""
+description_sick_hit_window: "Cambia el tiempo máximo para acertar una calificación "Sick!" en milisegundos."
+setting_good_hit_window: "Ventana. Oportunidad "Good""
+description_good_hit_window: "Cambia el tiempo máximo para acertar una calificación "Good" em milisegundos."
+setting_bad_hit_window: "Ventana. Oportunidad "Bad""
+description_bad_hit_window: "Cambia el tiempo máximo para acertar una calificación "Bad" em milisegundos."
+setting_safe_frames: "Safe Frames"
+description_safe_frames: "Ajusta la cantidad de tiempo para acertar notas más temprano o tarde."
+setting_sustains_as_one_note: "Notas Sostenidas como Una"
+description_sustains_as_one_note: "Si se activa, las notas sostenidas contarán como un solo acierto / error y no se podrán presionar más en caso de este."
+
+// Loading Screen
+now_loading: "Cargando{1}"
+
+// Difficulties
+difficulty_easy: "Collab"
+difficulty_normal: "Block"
+difficulty_hard: "Extra"
+
+images/menudifficulties/easy: "images/es-MX/menudifficulties/easy"
+images/menudifficulties/hard: "images/es-MX/menudifficulties/hard"
+
